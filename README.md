@@ -1,4 +1,36 @@
+<div align="center">
+
 # 🚀 DSA 100 Days Challenge
+
+### Transforming Consistency into Problem-Solving Excellence
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=100+Days+of+DSA;LeetCode+%7C+Codeforces+%7C+C%2B%2B;Preparing+for+Top+Tech+Placements;One+Problem+at+a+Time+🚀" alt="Typing SVG" />
+
+<br>
+
+![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=cplusplus)
+![LeetCode](https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode)
+![Codeforces](https://img.shields.io/badge/Codeforces-Competitive_Programming-purple?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎯 Mission
+
+Building a strong foundation in Data Structures & Algorithms through consistent daily practice.
+
+This repository tracks my journey towards:
+
+✨ Mastering DSA
+
+✨ Strengthening Competitive Programming Skills
+
+✨ Preparing for Software Engineering Interviews
+
+✨ Becoming Placement Ready
+
+---
 
 <div align="center">
 
