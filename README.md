@@ -21,8 +21,11 @@ Building a strong foundation in Data Structures & Algorithms through consistent 
 This repository tracks my journey towards:
 
 ✨ Solving Real Interview Problems
+
 ✨ Exploring Efficient Algorithms
+
 ✨ Practicing Competitive Programming
+
 ✨ Documenting Continuous Growth
 ---
 
