@@ -80,8 +80,9 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 ## 📈 Progress Tracker
 
 | Day | Problem | Difficulty | Status |
-|------|----------|------------|----------|
+|-----|---------|------------|--------|
 | 1 | Reverse Linked List | Easy | ✅ |
+| 2 | Two Sum | Easy | ✅ |
 
 ---
 
