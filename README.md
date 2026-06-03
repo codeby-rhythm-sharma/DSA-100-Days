@@ -78,13 +78,20 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 ---
 
 ## 📈 Progress Tracker
-Day 1 ✅
-LeetCode - 206 Reverse Linked List
 
-Day 2 ✅
-LeetCode - 1 Two Sum
-Codeforces - 4A Watermelon
+| Day | Platform | Problem | Difficulty | Status  |
+|-----|----------|----------|------------|--------|
+| 1 | LeetCode | 206. Reverse Linked List | Easy | ✅ |
+| 2 | LeetCode | 1. Two Sum               | Easy | ✅ |
+| 3 | LeetCode | 20. Valid Parenthese     | Easy | ⏳ |
 ---
+
+## 🏆 Competitive Programming Tracker
+
+| Day | Platform | Problem | Verdict   |
+|-----|----------|---------|-----------|
+| 2 | Codeforces | 4A - Watermelon | ✅ |
+| 3 | Codeforces | 231A - Team     | ⏳ |
 
 ## 🎯 Goal
 
