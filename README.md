@@ -20,14 +20,10 @@ Building a strong foundation in Data Structures & Algorithms through consistent 
 
 This repository tracks my journey towards:
 
-✨ Mastering DSA
-
-✨ Strengthening Competitive Programming Skills
-
-✨ Preparing for Software Engineering Interviews
-
-✨ Becoming Placement Ready
-
+✨ Solving Real Interview Problems
+✨ Exploring Efficient Algorithms
+✨ Practicing Competitive Programming
+✨ Documenting Continuous Growth
 ---
 
 <div align="center">
