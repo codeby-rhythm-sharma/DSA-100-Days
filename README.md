@@ -78,12 +78,12 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 ---
 
 ## 📈 Progress Tracker
+Day 1 ✅
+LeetCode - 206 Reverse Linked List
 
-| Day | Problem | Difficulty | Status |
-|-----|---------|------------|--------|
-| 1 | Reverse Linked List | Easy | ✅ |
-| 2 | Two Sum | Easy | ✅ |
-
+Day 2 ✅
+LeetCode - 1 Two Sum
+Codeforces - 4A Watermelon
 ---
 
 ## 🎯 Goal
