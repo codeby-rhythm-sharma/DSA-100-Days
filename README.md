@@ -77,7 +77,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 
 ---
 
-## 📈 Progress Tracker
+## 📈 100 Days Code Challenge Progress Tracker
 
 | Day | Platform | Problem | Difficulty | Status  |
 |-----|----------|----------|-----------|---------|
