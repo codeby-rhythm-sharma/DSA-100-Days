@@ -104,7 +104,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | Day | Platform | Problem | Verdict   |
 |-----|----------|---------|-----------|
 | 2 | Codeforces | 4A - Watermelon | ✅ |
-| 3 | Codeforces | 231A - Team     | ⏳ |
+| 3 | Codeforces | 231A - Team     | ✅ |
 
 ## 🎯 Goal
 
