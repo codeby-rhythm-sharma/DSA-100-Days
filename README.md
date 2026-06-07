@@ -80,10 +80,23 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 ## 📈 Progress Tracker
 
 | Day | Platform | Problem | Difficulty | Status  |
-|-----|----------|----------|------------|--------|
-| 1 | LeetCode | 206. Reverse Linked List | Easy | ✅ |
-| 2 | LeetCode | 1. Two Sum               | Easy | ✅ |
-| 3 | LeetCode | 20. Valid Parenthese     | Easy | ⏳ |
+|-----|----------|----------|-----------|---------|
+| 1 | LeetCode |  Two Sum                   | Easy | ✅ |
+| 2 | LeetCode |Removed Linked list elements| Easy | ✅ |
+| 3 | LeetCode |  Group Anagrams            |Medium| ✅ |
+| 4 | LeetCode | Same Tree                  | Easy | ✅ |
+| 5 | LeetCode | Top K frequent elements    |Medium| ✅ |
+---
+
+## 🔥 Daily LeetCode Streak
+
+|Day|          Problem	                          |Difficulty| Status|
+|---|---------------------------------------------|----------|-------|
+| 1	|Earliest Finish Time for Land and Water Rides|Medium	   |    ✅ |
+| 2	|Total Waviness of Number in Range II         |	Hard	   |    ✅ |
+| 3	|Total Waviness of Number in Range I	        |Medium	   |    ✅ |
+| 4	|Left and Right Sum Differences	              |Easy	     |    ✅ |
+| 5 |	Create Binary Tree From Descriptions	      |Medium	   |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
