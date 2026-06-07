@@ -103,8 +103,10 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 
 | Day | Platform | Problem | Verdict   |
 |-----|----------|---------|-----------|
-| 2 | Codeforces | 4A - Watermelon | ✅ |
-| 3 | Codeforces | 231A - Team     | ✅ |
+| 1 | Codeforces | 4A - Watermelon           | ✅ |
+| 2 | Codeforces | 231A - Team               | ✅ |
+| 3 | Codeforces |	71A - Way Too Long Words | ✅ |
+| 4	| Codeforces |	282A - Bit++	           | ✅ |
 
 ## 🎯 Goal
 
