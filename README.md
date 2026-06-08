@@ -107,8 +107,11 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |-----|----------|---------|-----------|
 | 1 | Codeforces | 4A - Watermelon           | ✅ |
 | 2 | Codeforces | 231A - Team               | ✅ |
-| 3 | Codeforces |	71A - Way Too Long Words | ✅ |
-| 4	| Codeforces |	282A - Bit++	           | ⏳ |
+| 3 | Codeforces | 71A - Way Too Long Words  | ✅ |
+| 4	| Codeforces | 282A - Bit++	             | ✅ |
+| 5 | Codeforces | Domino - Piling           | ✅ |
+| 6 | Codeforces | Petya and Strings         | ✅ |
+---
 
 ## 🎯 Goal
 
