@@ -113,6 +113,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 4	| Codeforces | 282A - Bit++	             | ✅ |
 | 5 | Codeforces | Domino - Piling           | ✅ |
 | 6 | Codeforces | Petya and Strings         | ✅ |
+| 7 | Codeforces | Beautiful Matrix          | ✅ |
 ---
 
 ## 🎯 Goal
