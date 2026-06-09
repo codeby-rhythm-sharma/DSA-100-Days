@@ -87,6 +87,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 4 | LeetCode | Same Tree                  | Easy | ✅ |
 | 5 | LeetCode | Top K frequent elements    |Medium| ✅ |
 | 6 | LeetCode | Invert Binary Tree         | Easy | ✅ |
+| 7 | LeetCode |Best Time to Buy & Sell Stock|Easy | ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -99,6 +100,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 4	|Left and Right Sum Differences	              |Easy	     |    ✅ |
 | 5 |	Create Binary Tree From Descriptions	      |Medium	   |    ✅ |
 | 6 | Partition Array according to given pivot    |Medium    |    ✅ |
+| 7 | Maximum Total SubarrayValue I               |Medium    |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
