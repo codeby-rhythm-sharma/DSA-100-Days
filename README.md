@@ -88,6 +88,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 5 | LeetCode | Top K frequent elements    |Medium| ✅ |
 | 6 | LeetCode | Invert Binary Tree         | Easy | ✅ |
 | 7 | LeetCode |Best Time to Buy & Sell Stock|Easy | ✅ |
+| 8 | LeetCode | Min Stack                  |Medium| ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -101,6 +102,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 5 |	Create Binary Tree From Descriptions	      |Medium	   |    ✅ |
 | 6 | Partition Array according to given pivot    |Medium    |    ✅ |
 | 7 | Maximum Total SubarrayValue I               |Medium    |    ✅ |
+| 8 | Maximum Total Subarray Value II             |Hard      |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
