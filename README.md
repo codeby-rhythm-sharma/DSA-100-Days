@@ -116,6 +116,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 5 | Codeforces | Domino - Piling           | ✅ |
 | 6 | Codeforces | Petya and Strings         | ✅ |
 | 7 | Codeforces | Beautiful Matrix          | ✅ |
+| 8 | Codeforces | Next Round                | ✅ |
 ---
 
 ## 🎯 Goal
