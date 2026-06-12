@@ -105,6 +105,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 7 | Maximum Total SubarrayValue I               |Medium    |    ✅ |
 | 8 | Maximum Total Subarray Value II             |Hard      |    ✅ |
 | 9 | Number of Ways to Assign Edge Weights I     |Medium    |    ✅ |
+| 10| Number of Ways to Assign Edge Weights II    |Hard      |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
