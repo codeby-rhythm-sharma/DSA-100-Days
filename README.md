@@ -90,6 +90,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 7 | LeetCode |Best Time to Buy & Sell Stock|Easy | ✅ |
 | 8 | LeetCode | Min Stack                  |Medium| ✅ |
 | 9 | LeetCode | Merge Intervals            |Medium| ✅ |
+|10 | LeetCode |Maximum Depth of Binary Tree|Easy  | ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
