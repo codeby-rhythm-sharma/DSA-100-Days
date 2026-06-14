@@ -91,6 +91,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 8 | LeetCode | Min Stack                  |Medium| ✅ |
 | 9 | LeetCode | Merge Intervals            |Medium| ✅ |
 |10 | LeetCode |Maximum Depth of Binary Tree|Easy  | ✅ |
+|11 | LeetCode |Maximum Subarray            |Medium| ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -107,6 +108,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 8 | Maximum Total Subarray Value II             |Hard      |    ✅ |
 | 9 | Number of Ways to Assign Edge Weights I     |Medium    |    ✅ |
 | 10| Number of Ways to Assign Edge Weights II    |Hard      |    ✅ |
+| 11|Maximum Twin Sum of Linked List              |Medium    |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
