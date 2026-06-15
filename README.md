@@ -92,6 +92,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 9 | LeetCode | Merge Intervals            |Medium| ✅ |
 |10 | LeetCode |Maximum Depth of Binary Tree|Easy  | ✅ |
 |11 | LeetCode |Maximum Subarray            |Medium| ✅ |
+|12 | LeetCode | Reverse Linked List        | Easy | ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
