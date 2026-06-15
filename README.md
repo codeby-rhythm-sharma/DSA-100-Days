@@ -109,6 +109,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 9 | Number of Ways to Assign Edge Weights I     |Medium    |    ✅ |
 | 10| Number of Ways to Assign Edge Weights II    |Hard      |    ✅ |
 | 11|Maximum Twin Sum of Linked List              |Medium    |    ✅ |
+| 12|Delete the MIddle Node of a Linked List      |Medium    |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
