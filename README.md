@@ -93,6 +93,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |10 | LeetCode |Maximum Depth of Binary Tree|Easy  | ✅ |
 |11 | LeetCode |Maximum Subarray            |Medium| ✅ |
 |12 | LeetCode | Reverse Linked List        | Easy | ✅ |
+|13 | LeetCode |Product of Array Except Self|Medium| ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -111,6 +112,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 10| Number of Ways to Assign Edge Weights II    |Hard      |    ✅ |
 | 11|Maximum Twin Sum of Linked List              |Medium    |    ✅ |
 | 12|Delete the MIddle Node of a Linked List      |Medium    |    ✅ |
+| 13|Process String with Special Operations I     |Medium    |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
