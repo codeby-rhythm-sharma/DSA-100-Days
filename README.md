@@ -94,6 +94,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |11 | LeetCode |Maximum Subarray            |Medium| ✅ |
 |12 | LeetCode | Reverse Linked List        | Easy | ✅ |
 |13 | LeetCode |Product of Array Except Self|Medium| ✅ |
+|14 | LeetCode |Symmetric Tree              | Easy | ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
