@@ -115,6 +115,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 12|Delete the MIddle Node of a Linked List      |Medium    |    ✅ |
 | 13|Process String with Special Operations I     |Medium    |    ✅ |
 | 14|Process String with Special Operations II    |Hard      |    ✅ |
+| 15|Find highest altitude                        |Easy      |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
