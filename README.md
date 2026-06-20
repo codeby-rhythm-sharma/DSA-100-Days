@@ -138,6 +138,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |11 | Codeforces | AI Project Development    | ✅ |
 |12 | Codeforces | Convergence               | ✅ |
 |13 | Codeforces |Zhily and Bracket Swapping | ✅ |
+|14 | Codeforces | Different Distances       | ✅ |
 ---
 
 ## 🎯 Goal
