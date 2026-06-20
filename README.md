@@ -96,6 +96,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |13 | LeetCode |Product of Array Except Self|Medium| ✅ |
 |14 | LeetCode |Symmetric Tree              | Easy | ✅ |
 |15 | LeetCode |Two Sum II-Input Array is sorted|Medium| ✅|
+|16 | LeetCode | Balanced Binary Tree      | Easy  | ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
