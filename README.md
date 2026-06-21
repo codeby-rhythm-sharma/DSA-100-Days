@@ -141,7 +141,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |12 | Codeforces | Convergence               | ✅ |
 |13 | Codeforces |Zhily and Bracket Swapping | ✅ |
 |14 | Codeforces | Different Distances       | ✅ |
-|15 | Codeforces |The Equalizer              |
+|15 | Codeforces |The Equalizer              | ✅
 ---
 
 ## 🎯 Goal
