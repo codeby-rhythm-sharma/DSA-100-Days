@@ -97,7 +97,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |14 | LeetCode |Symmetric Tree              | Easy | ✅ |
 |15 | LeetCode |Two Sum II-Input Array is sorted|Medium| ✅|
 |16 | LeetCode | Balanced Binary Tree      | Easy  | ✅ |
-|17 | LeetCode |
+|17 | LeetCode | 3 Sum
 ---
 
 ## 🔥 Daily LeetCode Streak
