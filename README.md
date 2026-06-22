@@ -121,7 +121,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 1 |Find highest altitude                        |Easy      |    ✅ |
 | 2 | Maximum Building Height                     |Hard      |    ✅ |
 | 3 | Maximum Ice Cream Bars                      |Medium    |    ✅ |
-| 
+| 4 |
 ---
 
 ## 🏆 Competitive Programming Tracker
