@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Mission
+## 🎯 Mission hello
 
 Building a strong foundation in Data Structures & Algorithms through consistent daily practice.
 
