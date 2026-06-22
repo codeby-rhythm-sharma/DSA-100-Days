@@ -144,6 +144,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |13 | Codeforces |Zhily and Bracket Swapping | ✅ |
 |14 | Codeforces | Different Distances       | ✅ |
 |15 | Codeforces |The Equalizer              | ✅ |
+|16 | Codeforces | 
 ---
 
 ## 🎯 Goal
