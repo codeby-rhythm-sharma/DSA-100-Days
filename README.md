@@ -98,7 +98,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |15 | LeetCode |Two Sum II-Input Array is sorted|Medium| ✅|
 |16 | LeetCode | Balanced Binary Tree      | Easy  | ✅ |
 |17 | LeetCode | 3 Sum                     |Medium | ✅ |
-|18 | LeetCode |Diameter of Binary Tree    |
+|18 | LeetCode |Diameter of Binary Tree    | Easy
 ---
 
 ## 🔥 Daily LeetCode Streak
