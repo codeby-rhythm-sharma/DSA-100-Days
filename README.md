@@ -124,6 +124,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 2 | Maximum Building Height                     |Hard      |    ✅ |
 | 3 | Maximum Ice Cream Bars                      |Medium    |    ✅ |
 | 4 | Maximum Number of Balloons                  |Easy      |    ✅ |
+| 5 |
 ---
 
 ## 🏆 Competitive Programming Tracker
