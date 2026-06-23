@@ -147,8 +147,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |14 | Codeforces | Different Distances       | ✅ |
 |15 | Codeforces |The Equalizer              | ✅ |
 |16 | Codeforces | Wonderful Contest         | ✅ |
-|17 |
----
+|17 | Codeforces |
+--- 
 
 ## 🎯 Goal
 
