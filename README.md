@@ -99,7 +99,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |16 | LeetCode | Balanced Binary Tree      | Easy  | ✅ |
 |17 | LeetCode | 3 Sum                     |Medium | ✅ |
 |18 | LeetCode |Diameter of Binary Tree    | Easy  | ✅ |
-|19 | LeetCode |Number of ZigZag Arrays I  |
+|19 | LeetCode | |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -124,7 +124,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 2 | Maximum Building Height                     |Hard      |    ✅ |
 | 3 | Maximum Ice Cream Bars                      |Medium    |    ✅ |
 | 4 | Maximum Number of Balloons                  |Easy      |    ✅ |
-| 5 |
+| 5 | Number of ZigZag Arrays I                   |
 ---
 
 ## 🏆 Competitive Programming Tracker
