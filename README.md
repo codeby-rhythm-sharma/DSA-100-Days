@@ -125,7 +125,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 3 | Maximum Ice Cream Bars                      |Medium    |    ✅ |
 | 4 | Maximum Number of Balloons                  |Easy      |    ✅ |
 | 5 | Number of ZigZag Arrays I                   |Hard      |    ✅ |
-| 6 | Number of ZigZag Arrays II                  |Hard      |
+| 6 | Number of ZigZag Arrays II                  |Hard      |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
