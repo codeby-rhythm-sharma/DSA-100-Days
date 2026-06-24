@@ -100,7 +100,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |17 | LeetCode | 3 Sum                     |Medium | ✅ |
 |18 | LeetCode |Diameter of Binary Tree    | Easy  | ✅ |
 |19 | LeetCode | Binary Search             | Easy  | ✅ |
-|20 | LeetCode | Linked List Cycle
+|20 | LeetCode | Linked List Cycle         |
 ---
 
 ## 🔥 Daily LeetCode Streak
