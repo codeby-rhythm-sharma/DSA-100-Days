@@ -150,7 +150,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |15 | Codeforces |The Equalizer              | ✅ |
 |16 | Codeforces | Wonderful Contest         | ✅ |
 |17 | Codeforces | Game                      | ✅ |
-|18 | Codeforces | Odd One Out               |
+|18 | Codeforces | Odd One Out               | ✅ |
 --- 
 
 ## 🎯 Goal
