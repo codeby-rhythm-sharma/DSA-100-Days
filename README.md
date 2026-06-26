@@ -101,6 +101,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |18 | LeetCode |Diameter of Binary Tree    | Easy  | ✅ |
 |19 | LeetCode | Binary Search             | Easy  | ✅ |
 |20 | LeetCode | Linked List Cycle         |Medium | ✅ |
+|21 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -127,6 +128,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 4 | Maximum Number of Balloons                  |Easy      |    ✅ |
 | 5 | Number of ZigZag Arrays I                   |Hard      |    ✅ |
 | 6 | Number of ZigZag Arrays II                  |Hard      |    ✅ |
+| 7 |
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -151,6 +153,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |16 | Codeforces | Wonderful Contest         | ✅ |
 |17 | Codeforces | Game                      | ✅ |
 |18 | Codeforces | Odd One Out               | ✅ |
+|19 |
 --- 
 
 ## 🎯 Goal
