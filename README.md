@@ -153,7 +153,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |16 | Codeforces | Wonderful Contest         | ✅ |
 |17 | Codeforces | Game                      | ✅ |
 |18 | Codeforces | Odd One Out               | ✅ |
-|19 | Codeforces |
+|19 | Codeforces | Another Popcount Problem  | 
 --- 
 
 ## 🎯 Goal
