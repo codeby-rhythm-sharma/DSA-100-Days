@@ -101,7 +101,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |18 | LeetCode |Diameter of Binary Tree    | Easy  | ✅ |
 |19 | LeetCode | Binary Search             | Easy  | ✅ |
 |20 | LeetCode | Linked List Cycle         |Medium | ✅ |
-|21 | LeetCode |Search in Rotated Sorted Array|Easy|
+|21 | LeetCode |Search in Rotated Sorted Array|Easy| ✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
