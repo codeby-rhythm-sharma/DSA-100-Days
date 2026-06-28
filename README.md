@@ -102,7 +102,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |19 | LeetCode | Binary Search             | Easy  | ✅ |
 |20 | LeetCode | Linked List Cycle         |Medium | ✅ |
 |21 | LeetCode |Search in Rotated Sorted Array|Easy| ✅ |
-|22 | LeetCode |Remove Nth Node From End of List|
+|22 | LeetCode |Remove Nth Node From End of List|Medium|
 ---
 
 ## 🔥 Daily LeetCode Streak
