@@ -129,6 +129,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 5 | Number of ZigZag Arrays I                   |Hard      |    ✅ |
 | 6 | Number of ZigZag Arrays II                  |Hard      |    ✅ |
 | 7 |Find the Maximum Number of Elements in Subset|Medium    |    ✅ |
+| 8 |
 ---
 
 ## 🏆 Competitive Programming Tracker
