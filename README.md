@@ -132,7 +132,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 6 | Number of ZigZag Arrays II                  |Hard      |    ✅ |
 | 7 |Find the Maximum Number of Elements in Subset|Medium    |    ✅ |
 | 8 |Maximum Element After Decreasing and Rearranging|Medium |    ✅ |
-| 9 |Number of Substrings Containing All Three Characters|Medium|
+| 9 |Number of Substrings Containing All Three Characters|Medium| ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
