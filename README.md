@@ -158,8 +158,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |17 | Codeforces | Game                      | ✅ |
 |18 | Codeforces | Odd One Out               | ✅ |
 |19 | Codeforces | Another Popcount Problem  | ✅ |
-|20 | COdeforces | ASCII Art Contest         | ✅ |
-|21 |
+|20 | Codeforces | ASCII Art Contest         | ✅ |
+|21 | Codeforces |
 --- 
 
 ## 🎯 Goal
