@@ -163,6 +163,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |19 | Codeforces | Another Popcount Problem  | ✅ |
 |20 | Codeforces | ASCII Art Contest         | ✅ |
 |21 | Codeforces | Divide and Conquer        | ✅ |
+|22 | Codeforces |
 --- 
 
 ## 🎯 Goal
