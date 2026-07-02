@@ -104,7 +104,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |21 | LeetCode |Search in Rotated Sorted Array|Easy| ✅ |
 |22 | LeetCode |Remove Nth Node From End of List|Medium|✅|
 |23 | LeetCode | Ransom Note               | Easy  | ✅ |
-|24 | LeetCode |Lowest Common Ancestor of a Binary Search Tree|Medium|
+|24 | LeetCode |Lowest Common Ancestor of a Binary Search Tree|Medium|✅|
 
 ---
 
