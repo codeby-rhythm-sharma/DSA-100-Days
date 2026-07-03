@@ -166,6 +166,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |20 | Codeforces | ASCII Art Contest         | ✅ |
 |21 | Codeforces | Divide and Conquer        | ✅ |
 |22 | Codeforces | Array Colouring           | ✅ |
+|23 |
 --- 
 
 ## 🎯 Goal
