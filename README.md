@@ -136,6 +136,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 8 |Maximum Element After Decreasing and Rearranging|Medium |    ✅ |
 | 9 |Number of Substrings Containing All Three Characters|Medium| ✅ |
 | 10| Find a Safe Walk Through a Grid             | Medium   |    ✅ |
+| 11|
 ---
 
 ## 🏆 Competitive Programming Tracker
