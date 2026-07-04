@@ -168,6 +168,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |21 | Codeforces | Divide and Conquer        | ✅ |
 |22 | Codeforces | Array Colouring           | ✅ |
 |23 | Codeforces | Collatz Conjecture        | ✅ |
+|24 | Codeforces |Cost of bracket swequence  | ✅ |
 --- 
 
 ## 🎯 Goal
