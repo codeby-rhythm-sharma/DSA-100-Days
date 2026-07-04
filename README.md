@@ -138,6 +138,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 9 |Number of Substrings Containing All Three Characters|Medium| ✅ |
 | 10| Find a Safe Walk Through a Grid             | Medium   |    ✅ |
 | 11| Network Recovery Pathways                   | Hard     |    ✅ |
+| 12|
 ---
 
 ## 🏆 Competitive Programming Tracker
