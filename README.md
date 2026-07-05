@@ -170,7 +170,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |22 | Codeforces | Array Colouring           | ✅ |
 |23 | Codeforces | Collatz Conjecture        | ✅ |
 |24 | Codeforces |Cost of bracket swequence  | ✅ |
-|25 | Codeforces |
+|25 | Codeforces | Good times Good times     |
 --- 
 
 ## 🎯 Goal
