@@ -139,7 +139,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 10| Find a Safe Walk Through a Grid             | Medium   |    ✅ |
 | 11| Network Recovery Pathways                   | Hard     |    ✅ |
 | 12| Minimum Score of a Path Between Two Cities  | Medium   |    ✅ |
-| 13|
+| 13|  Number of Paths with Max Score             | Hard     |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
