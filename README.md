@@ -106,7 +106,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |23 | LeetCode | Ransom Note               | Easy  | ✅ |
 |24 | LeetCode |Lowest Common Ancestor of a Binary Search Tree|Medium|✅|
 |25 | LeetCode | Merge Two Sorted Lists    | Easy  | ✅ |
-|26 | LeetCode | 
+|26 | LeetCode | Kth Smallest Element in a BST|Medium|✅|
 
 ---
 
