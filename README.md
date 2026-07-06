@@ -142,7 +142,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 11| Network Recovery Pathways                   | Hard     |    ✅ |
 | 12| Minimum Score of a Path Between Two Cities  | Medium   |    ✅ |
 | 13|  Number of Paths with Max Score             | Hard     |    ✅ |
-| 14|
+| 14| Is Subsequence                              | Easy     |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
