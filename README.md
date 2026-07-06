@@ -174,7 +174,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |23 | Codeforces | Collatz Conjecture        | ✅ |
 |24 | Codeforces |Cost of bracket swequence  | ✅ |
 |25 | Codeforces | Good times Good times     | ✅ |
-|26 | Codeforces |
+|26 | Codeforces |Another Puzzle from Papyrus| ✅ |
 --- 
 
 ## 🎯 Goal
