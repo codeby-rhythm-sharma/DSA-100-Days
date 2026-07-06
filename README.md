@@ -107,7 +107,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |24 | LeetCode |Lowest Common Ancestor of a Binary Search Tree|Medium|✅|
 |25 | LeetCode | Merge Two Sorted Lists    | Easy  | ✅ |
 |26 | LeetCode | Kth Smallest Element in a BST|Medium|✅|
-|27 | LeetCode |
+|27 | LeetCode | Remove Covered Intervals  |Medium | ✅ |
 
 ---
 
