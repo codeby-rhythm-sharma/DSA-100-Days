@@ -177,7 +177,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |24 | Codeforces |Cost of bracket swequence  | ✅ |
 |25 | Codeforces | Good times Good times     | ✅ |
 |26 | Codeforces |Another Puzzle from Papyrus| ✅ |
-|27 | Codeforces |
+|27 | Codeforces | Is Subsequence            | ✅ |
 --- 
 
 ## 🎯 Goal
