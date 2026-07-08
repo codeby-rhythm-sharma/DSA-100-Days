@@ -180,7 +180,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |25 | Codeforces | Good times Good times     | ✅ |
 |26 | Codeforces |Another Puzzle from Papyrus| ✅ |
 |27 | Codeforces |  Bigrams                  | ✅ |
-|28 | Codeforces |
+|28 | Codeforces | Crimson Triples           |
 --- 
 
 ## 🎯 Goal
