@@ -146,7 +146,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 13|  Number of Paths with Max Score             | Hard     |    ✅ |
 | 14| Is Subsequence                              | Easy     |    ✅ |
 | 15| Concatenate Non-Zero Digits and Multiply by Sum I|Easy |    ✅ |
-| 16|
+| 16| 
 ---
 
 ## 🏆 Competitive Programming Tracker
