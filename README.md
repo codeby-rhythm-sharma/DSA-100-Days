@@ -110,7 +110,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |27 | LeetCode | Remove Covered Intervals  |Medium | ✅ |
 |28 | LeetCode | Is Subsequence            | Easy  | ✅ |
 |29 | LeetCode | Flood Fill                | Easy  | ✅ |
-|30 |
+|30 | LeetCode |
 
 ---
 
@@ -183,7 +183,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |26 | Codeforces |Another Puzzle from Papyrus| ✅ |
 |27 | Codeforces |  Bigrams                  | ✅ |
 |28 | Codeforces | Crimson Triples           | ✅ |
-|29 |
+|29 | Codeforces |
 --- 
 
 ## 🎯 Goal
