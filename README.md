@@ -183,7 +183,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |26 | Codeforces |Another Puzzle from Papyrus| ✅ |
 |27 | Codeforces |  Bigrams                  | ✅ |
 |28 | Codeforces | Crimson Triples           | ✅ |
-|29 | Codeforces |
+|29 | Codeforces |Nim Game is XOR Game       | ✅ |
 --- 
 
 ## 🎯 Goal
