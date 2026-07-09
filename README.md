@@ -148,7 +148,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 14| Is Subsequence                              | Easy     |    ✅ |
 | 15| Concatenate Non-Zero Digits and Multiply by Sum I|Easy |    ✅ |
 | 16| Concatenate Non-Zero Digits and Multiply by Sum II|Medium|  ✅ |
-| 17|Path Existence Queries in a Graph I          |
+| 17|Path Existence Queries in a Graph I          |Medium    |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
