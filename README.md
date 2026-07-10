@@ -111,6 +111,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |28 | LeetCode | Is Subsequence            | Easy  | ✅ |
 |29 | LeetCode | Flood Fill                | Easy  | ✅ |
 |30 | LeetCode | Unique Paths              |Medium | ✅ |
+|31 |
 
 ---
 
