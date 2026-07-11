@@ -152,6 +152,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 16| Concatenate Non-Zero Digits and Multiply by Sum II|Medium|  ✅ |
 | 17|Path Existence Queries in a Graph I          |Medium    |    ✅ |
 | 18|Path Existence Queries in a Graph II         | Hard     |    ✅ |
+| 19|
 ---
 
 ## 🏆 Competitive Programming Tracker
