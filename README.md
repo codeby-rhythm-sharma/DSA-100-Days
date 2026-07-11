@@ -112,7 +112,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |29 | LeetCode | Flood Fill                | Easy  | ✅ |
 |30 | LeetCode | Unique Paths              |Medium | ✅ |
 |31 | LeetCode | Path Sum                  | Easy  | ✅ |
-|32 |
+|32 | LeetCode | Valid Anagram             | Easy  | ✅ |
 
 ---
 
