@@ -113,6 +113,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |30 | LeetCode | Unique Paths              |Medium | ✅ |
 |31 | LeetCode | Path Sum                  | Easy  | ✅ |
 |32 | LeetCode | Valid Anagram             | Easy  | ✅ |
+|33 |
 
 ---
 
