@@ -192,7 +192,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |29 | Codeforces |Nim Game is XOR Game       | ✅ |
 |30 | Codeforces | Unstable Elements         | ✅ |
 |31 | Codeforces | Decidophobia              | ✅ |
-|32 | Codeforces |
+|32 | Codeforces |. farmpiggie and Subset Sum| ✅ |
 --- 
 
 ## 🎯 Goal
