@@ -154,7 +154,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 17|Path Existence Queries in a Graph I          |Medium    |    ✅ |
 | 18|Path Existence Queries in a Graph II         | Hard     |    ✅ |
 | 19| Count number of Complete Components         | Medium   |    ✅ |
-| 20| . Rank Transform of an Array                | Easy     |
+| 20| . Rank Transform of an Array                | Easy     |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
