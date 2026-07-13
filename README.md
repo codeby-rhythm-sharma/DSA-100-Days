@@ -195,6 +195,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |30 | Codeforces | Unstable Elements         | ✅ |
 |31 | Codeforces | Decidophobia              | ✅ |
 |32 | Codeforces |. farmpiggie and Subset Sum| ✅ |
+|33 | Codeforces |
 --- 
 
 ## 🎯 Goal
