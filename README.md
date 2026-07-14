@@ -158,7 +158,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 19| Count number of Complete Components         | Medium   |    ✅ |
 | 20| Rank Transform of an Array                  | Easy     |    ✅ |
 | 21| Sequential Digits                           | Medium   |    ✅ |
-| 22|
+| 22| Find the Number of Subsequences With Equal GCD|
 ---
 
 ## 🏆 Competitive Programming Tracker
