@@ -115,7 +115,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |32 | LeetCode | Valid Anagram             | Easy  | ✅ |
 |33 | LeetCode |Longest Substring Without Repeating Characters|Medium |✅|
 |34 | LeetCode | Island Perimeter          | Easy  | ✅ |
-|35 | LeetCode |
+|35 | LeetCode | House
 
 ---
 
