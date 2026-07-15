@@ -160,6 +160,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 20| Rank Transform of an Array                  | Easy     |    ✅ |
 | 21| Sequential Digits                           | Medium   |    ✅ |
 | 22| Find the Number of Subsequences With Equal GCD| Hard   |    ✅ |
+| 23|
 ---
 
 ## 🏆 Competitive Programming Tracker
