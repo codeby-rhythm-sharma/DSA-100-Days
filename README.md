@@ -201,7 +201,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |32 | Codeforces | farmpiggie and Subset Sum | ✅ |
 |33 | Codeforces | ezraft and array          | ✅ |
 |34 | Codeforces | Blackslex and Password    | ✅ |
-|35 | Codeforces |
+|35 | Codeforces | Iskander and Drawings     |
 --- 
 
 ## 🎯 Goal
