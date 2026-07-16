@@ -117,7 +117,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |34 | LeetCode | Island Perimeter          | Easy  | ✅ |
 |35 | LeetCode | House Robber              |Medium | ✅ |
 |36 | LeetCode |Implement Queue using Stacks| Easy | ✅ |
-|37 | LeetCode |Implement Queue using Stacks|
+|37 | LeetCode |Implement Queue using Stacks| Easy |
 
 ---
 
