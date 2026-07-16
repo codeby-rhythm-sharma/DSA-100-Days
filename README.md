@@ -162,7 +162,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 21| Sequential Digits                           | Medium   |    ✅ |
 | 22| Find the Number of Subsequences With Equal GCD| Hard   |    ✅ |
 | 23| GCD of Odd and Even Sums                    | Easy     |    ✅ |
-| 24|
+| 24|Sum of GCD of Formed Pairs    
 ---
 
 ## 🏆 Competitive Programming Tracker
