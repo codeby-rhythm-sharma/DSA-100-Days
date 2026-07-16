@@ -204,7 +204,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |33 | Codeforces | ezraft and array          | ✅ |
 |34 | Codeforces | Blackslex and Password    | ✅ |
 |35 | Codeforces | Iskander and Drawings     | ✅ |
-|36 |
+|36 | Codeforces |
 --- 
 
 ## 🎯 Goal
