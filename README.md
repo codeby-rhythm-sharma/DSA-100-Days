@@ -206,7 +206,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |34 | Codeforces | Blackslex and Password    | ✅ |
 |35 | Codeforces | Iskander and Drawings     | ✅ |
 |36 | Codeforces | Who Watches the Watching  | ✅ |
-|37 | Codeforces |
+|37 | Codeforces | Summer Vacation           |
 --- 
 
 ## 🎯 Goal
