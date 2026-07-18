@@ -118,7 +118,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |35 | LeetCode | House Robber              |Medium | ✅ |
 |36 | LeetCode |Implement Queue using Stacks| Easy | ✅ |
 |37 | LeetCode |Kth Largest Element in an Array|Medium |✅|
-|38 |
+|38 | LeetCode |
 
 ---
 
