@@ -165,6 +165,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 23| GCD of Odd and Even Sums                    | Easy     |    ✅ |
 | 24|Sum of GCD of Formed Pairs                   | Medium   |    ✅ |
 | 25| Sorted GCD Pair Queries                     | Hard     |    ✅ |
+| 26|
 ---
 
 ## 🏆 Competitive Programming Tracker
