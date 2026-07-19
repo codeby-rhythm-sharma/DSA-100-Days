@@ -167,7 +167,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 24|Sum of GCD of Formed Pairs                   | Medium   |    ✅ |
 | 25| Sorted GCD Pair Queries                     | Hard     |    ✅ |
 | 26|Find Greatest Common Divisor of Array        | Easy     |    ✅ |
-| 27|
+| 27| Smallest Subsequence of Distinct Characters
 ---
 
 ## 🏆 Competitive Programming Tracker
