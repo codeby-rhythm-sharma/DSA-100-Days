@@ -119,6 +119,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |36 | LeetCode |Implement Queue using Stacks| Easy | ✅ |
 |37 | LeetCode |Kth Largest Element in an Array|Medium |✅|
 |38 | LeetCode | Validate Binary Tree      | Easy  | ✅ |
+|39 |
 
 ---
 
