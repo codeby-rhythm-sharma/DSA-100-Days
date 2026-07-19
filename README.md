@@ -212,7 +212,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |36 | Codeforces | Who Watches the Watching  | ✅ |
 |37 | Codeforces | Summer Vacation           | ✅ |
 |38 | Codeforces | Zero Sum                  | ✅ |
-|39 | Codeforces |Yet Another Constructive   |
+|39 | Codeforces |Yet Another Constructive   | ✅ |
 --- 
 
 ## 🎯 Goal
