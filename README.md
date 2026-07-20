@@ -169,6 +169,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 25| Sorted GCD Pair Queries                     | Hard     |    ✅ |
 | 26|Find Greatest Common Divisor of Array        | Easy     |    ✅ |
 | 27| Smallest Subsequence of Distinct Characters | Medium   |    ✅ |
+| 28|
 ---
 
 ## 🏆 Competitive Programming Tracker
