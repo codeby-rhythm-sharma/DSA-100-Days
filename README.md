@@ -215,7 +215,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |37 | Codeforces | Summer Vacation           | ✅ |
 |38 | Codeforces | Zero Sum                  | ✅ |
 |39 | Codeforces |Yet Another Constructive   | ✅ |
-|40 | Codeforces |Inversion of a Subsequence
+|40 | Codeforces |Inversion of a Subsequence |
 --- 
 
 ## 🎯 Goal
