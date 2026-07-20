@@ -120,7 +120,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |37 | LeetCode |Kth Largest Element in an Array|Medium |✅|
 |38 | LeetCode | Validate Binary Tree      | Easy  | ✅ |
 |39 | Leetcode | Middle of the Linked List | Easy  | ✅ |
-|40 | LeetCode |Construct Binary Tree from Preorder and Inorder Traversal|Medium|
+|40 | LeetCode |Construct Binary Tree from Preorder and Inorder Traversal|Medium| ✅
 
 ---
 
