@@ -121,7 +121,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |38 | LeetCode | Validate Binary Tree      | Easy  | ✅ |
 |39 | Leetcode | Middle of the Linked List | Easy  | ✅ |
 |40 | LeetCode |Construct Binary Tree from Preorder and Inorder Traversal|Medium| ✅|
-|41 | Leet
+|41 | LeetCode
 
 ---
 
