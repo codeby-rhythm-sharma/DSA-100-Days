@@ -122,7 +122,6 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |39 | Leetcode | Middle of the Linked List | Easy  | ✅ |
 |40 | LeetCode |Construct Binary Tree from Preorder and Inorder Traversal|Medium| ✅|
 |41 | LeetCode |Squares of a Sorted Array
-
 ---
 
 ## 🔥 Daily LeetCode Streak
