@@ -172,6 +172,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 27| Smallest Subsequence of Distinct Characters | Medium   |    ✅ |
 | 28| Shift 2D Grid                               | Easy     |    ✅ |
 | 29|Maximize Active Section with Trade I         |Medium    |    ✅ |
+| 30|
 ---
 
 ## 🏆 Competitive Programming Tracker
