@@ -220,7 +220,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |39 | Codeforces |Yet Another Constructive   | ✅ |
 |40 | Codeforces |Inversion of a Subsequence | ✅ |
 |41 | Codeforces |	Delete and Concatenate   | ✅ |
-|42 | Codeforces | XOR Sorting                        | ✅ |
+|42 | Codeforces | XOR Sorting (Easy                      | ✅ |
 --- 
 
 ## 🎯 Goal
