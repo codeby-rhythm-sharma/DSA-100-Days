@@ -123,7 +123,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |40 | LeetCode |Construct Binary Tree from Preorder and Inorder Traversal|Medium| ✅|
 |41 | LeetCode |Squares of a Sorted Array  | Easy  | ✅ |
 |42 | LeetCode |Number of Unique XOR Triplets I|Medium|✅|
-|43 | Leet
+|43 | LeetCode
 ---
 
 ## 🔥 Daily LeetCode Streak
