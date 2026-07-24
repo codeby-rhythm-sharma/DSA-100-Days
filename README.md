@@ -223,6 +223,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |40 | Codeforces |Inversion of a Subsequence | ✅ |
 |41 | Codeforces |	Delete and Concatenate   | ✅ |
 |42 | Codeforces | XOR Sorting (Easy Version)| ✅ |
+|43
 --- 
 
 ## 🎯 Goal
