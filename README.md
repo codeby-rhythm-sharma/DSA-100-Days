@@ -174,6 +174,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 29|Maximize Active Section with Trade I         |Medium    |    ✅ |
 | 30| Maximize Active Section with Trade II       |  Hard    |    ✅ |
 | 31| Number of Unique XOR Triplets I             | Medium   |    ✅ |
+| 32| 
 ---
 
 ## 🏆 Competitive Programming Tracker
