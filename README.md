@@ -174,7 +174,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 28| Shift 2D Grid                               | Easy     |    ✅ |
 | 29|Maximize Active Section with Trade I         |Medium    |    ✅ |
 | 30| Maximize Active Section with Trade II       |  Hard    |    ✅ |
-| 31
+| 31|
 ---
 
 ## 🏆 Competitive Programming Tracker
