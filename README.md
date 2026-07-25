@@ -176,7 +176,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 30| Maximize Active Section with Trade II       |  Hard    |    ✅ |
 | 31| Number of Unique XOR Triplets I             | Medium   |    ✅ |
 | 32| Number of Unique XOR Triplets II            | Medium   |    ✅ |
-| 33| Maximum Product of Two Digits               |
+| 33| Maximum Product of Two Digits               | Easy
 ---
 
 ## 🏆 Competitive Programming Tracker
