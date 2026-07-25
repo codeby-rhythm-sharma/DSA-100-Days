@@ -123,6 +123,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |40 | LeetCode |Construct Binary Tree from Preorder and Inorder Traversal|Medium| ✅|
 |41 | LeetCode |Squares of a Sorted Array  | Easy  | ✅ |
 |42 | LeetCode |Average levels of binary tree|Easy | ✅ |
+|43 |
 ---
 
 ## 🔥 Daily LeetCode Streak
