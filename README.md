@@ -179,6 +179,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 32| Number of Unique XOR Triplets II            | Medium   |    ✅ |
 | 33| Maximum Product of Two Digits               | Easy     |    ✅ |
 | 34| Maximum Product of Three Digits             | Easy     |    ✅ |
+| 35
 ---
 
 ## 🏆 Competitive Programming Tracker
