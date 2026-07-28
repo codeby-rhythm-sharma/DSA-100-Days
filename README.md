@@ -162,15 +162,15 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 14| Is Subsequence                              | Easy     |    ✅ |
 | 15| Concatenate Non-Zero Digits and Multiply by Sum I|Easy |    ✅ |
 | 16| Concatenate Non-Zero Digits and Multiply by Sum II|Medium|  ✅ |
-| 17|Path Existence Queries in a Graph I          |Medium    |    ✅ |
-| 18|Path Existence Queries in a Graph II         | Hard     |    ✅ |
-| 19| Count number of Complete Components         | Medium   |    ✅ |
-| 20| Rank Transform of an Array                  | Easy     |    ✅ |
-| 21| Sequential Digits                           | Medium   |    ✅ |
-| 22| Find the Number of Subsequences With Equal GCD| Hard   |    ✅ |
-| 23| GCD of Odd and Even Sums                    | Easy     |    ✅ |
-| 24|Sum of GCD of Formed Pairs                   | Medium   |    ✅ |
-| 25| Sorted GCD Pair Queries                     | Hard     |    ✅ |
+| 8 |Path Existence Queries in a Graph I          |Medium    |    ✅ |
+| 9 |Path Existence Queries in a Graph II         | Hard     |    ✅ |
+| 10| Count number of Complete Components         | Medium   |    ✅ |
+| 11| Rank Transform of an Array                  | Easy     |    ✅ |
+| 12| Sequential Digits                           | Medium   |    ✅ |
+| 13| Find the Number of Subsequences With Equal GCD| Hard   |    ✅ |
+| 14| GCD of Odd and Even Sums                    | Easy     |    ✅ |
+| 15|Sum of GCD of Formed Pairs                   | Medium   |    ✅ |
+| 16| Sorted GCD Pair Queries                     | Hard     |    ✅ |
 | 17|Find Greatest Common Divisor of Array        | Easy     |    ✅ |
 | 18| Smallest Subsequence of Distinct Characters | Medium   |    ✅ |
 | 19| Shift 2D Grid                               | Easy     |    ✅ |
