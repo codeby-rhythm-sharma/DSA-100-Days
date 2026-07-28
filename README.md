@@ -155,10 +155,10 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 7 |Find the Maximum Number of Elements in Subset|Medium    |    ✅ |
 | 8 |Maximum Element After Decreasing and Rearranging|Medium |    ✅ |
 | 9 |Number of Substrings Containing All Three Characters|Medium| ✅ |
-| 10| Find a Safe Walk Through a Grid             | Medium   |    ✅ |
-| 11| Network Recovery Pathways                   | Hard     |    ✅ |
-| 12| Minimum Score of a Path Between Two Cities  | Medium   |    ✅ |
-| 13|  Number of Paths with Max Score             | Hard     |    ✅ |
+| 1 | Find a Safe Walk Through a Grid             | Medium   |    ✅ |
+| 2 | Network Recovery Pathways                   | Hard     |    ✅ |
+| 3 | Minimum Score of a Path Between Two Cities  | Medium   |    ✅ |
+| 4 |  Number of Paths with Max Score             | Hard     |    ✅ |
 | 5 | Is Subsequence                              | Easy     |    ✅ |
 | 6 | Concatenate Non-Zero Digits and Multiply by Sum I|Easy |    ✅ |
 | 7 | Concatenate Non-Zero Digits and Multiply by Sum II|Medium|  ✅ |
