@@ -171,14 +171,14 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 23| GCD of Odd and Even Sums                    | Easy     |    ✅ |
 | 24|Sum of GCD of Formed Pairs                   | Medium   |    ✅ |
 | 25| Sorted GCD Pair Queries                     | Hard     |    ✅ |
-| 26|Find Greatest Common Divisor of Array        | Easy     |    ✅ |
-| 27| Smallest Subsequence of Distinct Characters | Medium   |    ✅ |
-| 28| Shift 2D Grid                               | Easy     |    ✅ |
-| 29|Maximize Active Section with Trade I         |Medium    |    ✅ |
-| 30| Maximize Active Section with Trade II       |  Hard    |    ✅ |
-| 31| Number of Unique XOR Triplets I             | Medium   |    ✅ |
-| 32| Number of Unique XOR Triplets II            | Medium   |    ✅ |
-| 25| Maximum Product of Two Digits               | Easy     |    ✅ |
+| 17|Find Greatest Common Divisor of Array        | Easy     |    ✅ |
+| 18| Smallest Subsequence of Distinct Characters | Medium   |    ✅ |
+| 19| Shift 2D Grid                               | Easy     |    ✅ |
+| 20|aximize Active Section with Trade I         |Medium    |    ✅ |
+| 21| Maximize Active Section with Trade II       |  Hard    |    ✅ |
+| 22| Number of Unique XOR Triplets I             | Medium   |    ✅ |
+| 23| Number of Unique XOR Triplets II            | Medium   |    ✅ |
+| 24 Maximum Product of Two Digits               | Easy     |    ✅ |
 | 25| Maximum Product of Three Digits             | Easy     |    ✅ |
 | 26| Maximum Product of Two elements in an array | Medium   |    ✅ |
 ---
