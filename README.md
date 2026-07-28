@@ -125,6 +125,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |42 | LeetCode |Average levels of binary tree|Easy | ✅ |
 |43 | LeetCode |
 |44 |LeetCode  |
+|45 |LeetCode  |
 ---
 
 ## 🔥 Daily LeetCode Streak
