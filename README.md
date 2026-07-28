@@ -159,9 +159,9 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 11| Network Recovery Pathways                   | Hard     |    ✅ |
 | 12| Minimum Score of a Path Between Two Cities  | Medium   |    ✅ |
 | 13|  Number of Paths with Max Score             | Hard     |    ✅ |
-| 14| Is Subsequence                              | Easy     |    ✅ |
-| 15| Concatenate Non-Zero Digits and Multiply by Sum I|Easy |    ✅ |
-| 16| Concatenate Non-Zero Digits and Multiply by Sum II|Medium|  ✅ |
+| 5 | Is Subsequence                              | Easy     |    ✅ |
+| 6 | Concatenate Non-Zero Digits and Multiply by Sum I|Easy |    ✅ |
+| 7 | Concatenate Non-Zero Digits and Multiply by Sum II|Medium|  ✅ |
 | 8 |Path Existence Queries in a Graph I          |Medium    |    ✅ |
 | 9 |Path Existence Queries in a Graph II         | Hard     |    ✅ |
 | 10| Count number of Complete Components         | Medium   |    ✅ |
