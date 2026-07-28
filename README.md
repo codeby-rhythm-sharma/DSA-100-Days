@@ -181,6 +181,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 24| Maximum Product of Two Digits               | Easy     |    ✅ |
 | 25| Maximum Product of Three Digits             | Easy     |    ✅ |
 | 26| Maximum Product of Two elements in an array | Medium   |    ✅ |
+| 27|
 ---
 
 ## 🏆 Competitive Programming Tracker
