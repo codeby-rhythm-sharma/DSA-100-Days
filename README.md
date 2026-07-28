@@ -230,6 +230,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |41 | Codeforces |	Delete and Concatenate   | ✅ |
 |42 | Codeforces | XOR Sorting (Easy Version)| ✅ |
 |43 | Codeforces | Passing the Ball          | ✅ |
+|44 |
 --- 
 
 ## 🎯 Goal
