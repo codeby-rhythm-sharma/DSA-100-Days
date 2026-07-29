@@ -125,7 +125,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |42 | LeetCode |Average levels of binary tree|Easy | ✅ |
 |43 | LeetCode |Find Smallest Letter Greater Than Target| Easy|✅|
 |44 | LeetCode |Best Time to Buy and Sell Stock II |Medium|✅|
-|
+|45
 
 ---
 
