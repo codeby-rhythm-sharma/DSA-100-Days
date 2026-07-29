@@ -124,7 +124,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |41 | LeetCode |Squares of a Sorted Array  | Easy  | ✅ |
 |42 | LeetCode |Average levels of binary tree|Easy | ✅ |
 |43 | LeetCode |Find Smallest Letter Greater Than Target| Easy|✅|
-|
+|44
 
 ---
 
