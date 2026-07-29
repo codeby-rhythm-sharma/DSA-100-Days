@@ -181,7 +181,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 25| Maximum Product of Three Digits             | Easy     |    ✅ |
 | 26| Maximum Product of Two elements in an array | Medium   |    ✅ |
 | 27| Smallest Palindromic Rearrangement I        | Medium   |    ✅ |
-| 28
+| 28|
 ---
 
 ## 🏆 Competitive Programming Tracker
