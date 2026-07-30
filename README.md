@@ -184,7 +184,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 26| Maximum Product of Two elements in an array | Medium   |    ✅ |
 | 27| Smallest Palindromic Rearrangement I        | Medium   |    ✅ |
 | 28| Smallest Palindromic Rearrangement II       | Hard     |    ✅ |
-| 29| Minimum Number of Pushes to Type Word I     | Easy     |
+| 29| Minimum Number of Pushes to Type Word I     | Easy     |    ✅
 ---
 
 ## 🏆 Competitive Programming Tracker
