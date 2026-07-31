@@ -175,7 +175,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 17|Find Greatest Common Divisor of Array        | Easy     |    ✅ |
 | 18| Smallest Subsequence of Distinct Characters | Medium   |    ✅ |
 | 19| Shift 2D Grid                               | Easy     |    ✅ |
-| 20|aximize Active Section with Trade I         |Medium    |    ✅ |
+| 20|aximize Active Section with Trade I         |Medium     |    ✅ |
 | 21| Maximize Active Section with Trade II       |  Hard    |    ✅ |
 | 22| Number of Unique XOR Triplets I             | Medium   |    ✅ |
 | 23| Number of Unique XOR Triplets II            | Medium   |    ✅ |
