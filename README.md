@@ -126,6 +126,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |43 | LeetCode |Find Smallest Letter Greater Than Target| Easy|✅|
 |44 | LeetCode |Best Time to Buy and Sell Stock II |Medium|✅|
 |45 | LeetCode |Binary Tree Right Side View |Medium |✅ |
+|
 
 ---
 
