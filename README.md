@@ -239,7 +239,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |43 | Codeforces | Passing the Ball          | ✅ |
 |44 | Codeforces | Rank Subsequence          | ✅ |
 |45 | Codeforces | Permutation Cuts          | ✅ |
-|46 | Codeforces
+|46 | Codeforces |
 --- 
 
 ## 🎯 Goal
