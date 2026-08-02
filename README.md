@@ -189,6 +189,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 29| Minimum Number of Pushes to Type Word I     | Easy     |    ✅ |
 | 30| Minimum Number of Pushes to Type Word       |Medium    |    ✅ |
 | 31|
+| 32
 ---
 
 ## 🏆 Competitive Programming Tracker
