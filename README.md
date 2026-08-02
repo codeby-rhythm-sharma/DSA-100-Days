@@ -242,7 +242,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |44 | Codeforces | Rank Subsequence          | ✅ |
 |45 | Codeforces | Permutation Cuts          | ✅ |
 |46 | Codeforces | You Delete, I Delete      | ✅ |
-|47 |
+|47 | Code
 --- 
 
 ## 🎯 Goal
