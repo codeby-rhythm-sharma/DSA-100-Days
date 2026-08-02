@@ -127,7 +127,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |44 | LeetCode |Best Time to Buy and Sell Stock II |Medium|✅|
 |45 | LeetCode |Binary Tree Right Side View |Medium |✅ |
 |46 | LeetCode | Task Scheduler             |Medium |✅ |
-|47 | LeetCode | Find The duplicate number  |
+|47 | LeetCode | Find The duplicate number  |Medium |
 
 ---
 
