@@ -188,7 +188,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 28| Smallest Palindromic Rearrangement II       | Hard     |    ✅ |
 | 29| Minimum Number of Pushes to Type Word I     | Easy     |    ✅ |
 | 30| Minimum Number of Pushes to Type Word       |Medium    |    ✅ |
-| 31| Predict The Winner                          | Medium   |
+| 31| Predict The Winner                          | Medium   |    ✅ |
 | 32|  Stone Game                                 |Medium    |    ✅ |
 ---
 
