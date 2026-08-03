@@ -190,7 +190,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 30| Minimum Number of Pushes to Type Word       |Medium    |    ✅ |
 | 31| Predict The Winner                          | Medium   |    ✅ |
 | 32|  Stone Game                                 |Medium    |    ✅ |
-| 33|  Stone Game III                             | Hard
+| 33|  Stone Game III                             | Hard     |
 ---
 
 ## 🏆 Competitive Programming Tracker
