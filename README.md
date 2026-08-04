@@ -192,6 +192,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 31| Predict The Winner                          | Medium   |    ✅ |
 | 32|  Stone Game                                 |Medium    |    ✅ |
 | 33|  Stone Game III                             | Hard     |    ✅ |
+|
 ---
 
 ## 🏆 Competitive Programming Tracker
