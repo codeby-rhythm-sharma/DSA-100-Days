@@ -248,7 +248,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |45 | Codeforces | Permutation Cuts          | ✅ |
 |46 | Codeforces | You Delete, I Delete      | ✅ |
 |47 | Codeforces | Merge to match            | ✅ |
-|48 | Codeforces | Maximize the score        |
+|48 | Codeforces | Maximize the score        | ✅
 --- 
 
 ## 🎯 Goal
