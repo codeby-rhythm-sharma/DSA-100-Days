@@ -192,7 +192,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 31| Predict The Winner                          | Medium   |    ✅ |
 | 32|  Stone Game                                 |Medium    |    ✅ |
 | 33|  Stone Game III                             | Hard     |    ✅ |
-| 34| Flatten Binary Tree to Linked List          | Medium   |    ✅ |
+| 34| Find Missing Elements                       | Medium   |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
