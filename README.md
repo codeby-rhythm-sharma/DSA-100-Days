@@ -194,7 +194,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 32|  Stone Game                                 |Medium    |    ✅ |
 | 33|  Stone Game III                             | Hard     |    ✅ |
 | 34| Find Missing Elements                       | Easy     |    ✅ |
-| 35| Remove Methods From Project                 | Medium   |    ✅ 
+| 35| Remove Methods From Project                 | Medium   |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
