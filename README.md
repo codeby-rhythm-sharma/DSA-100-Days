@@ -129,7 +129,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |46 | LeetCode | Task Scheduler             |Medium |✅ |
 |47 | LeetCode | Find The duplicate number  |Medium |✅ |
 |48 | LeetCode | Flatten Binary Tree to Linked List|Medium|✅ |
-|48 | LeetCode | Subarray Sum Equals K      |Medium |✅
+|48 | LeetCode | Subarray Sum Equals K      |Medium |✅ |
 
 ---
 
