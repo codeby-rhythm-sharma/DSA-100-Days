@@ -1,5 +1,15 @@
 <div align="center">
 
+# Hi, I'm Rhythm Sharma 👋
+
+🎓 B.Tech CSE (Cyber Security & Digital Forensics) | VIT Bhopal
+
+💻 C++ | DSA | Competitive Programming
+
+🌱 Currently solving LeetCode & Codeforces daily.
+
+🎯 Goal: Software Engineering & Research Internships.
+
 # 🚀 DSA 100 Days Challenge
 
 ### Transforming Consistency into Problem-Solving Excellence
