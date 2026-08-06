@@ -140,7 +140,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |47 | LeetCode | Find The duplicate number  |Medium |✅ |
 |48 | LeetCode | Flatten Binary Tree to Linked List|Medium|✅ |
 |49 | LeetCode | Subarray Sum Equals K      |Medium |✅ |
-|50 |
+|50 | Leet
 
 ---
 
