@@ -208,7 +208,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 34| Find Missing Elements                       | Easy     |    ✅ |
 | 35| Remove Methods From Project                 | Medium   |    ✅ |
 | 36| Smallest Divisible Digit Product I          | Easy     |    ✅ |
-| 37| Find the Lexicographically Smallest Valid Sequence
+| 37| Find the Lexicographically Smallest Valid Sequence|Medium|  ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
