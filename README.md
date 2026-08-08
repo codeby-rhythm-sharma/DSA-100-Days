@@ -141,6 +141,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |48 | LeetCode | Flatten Binary Tree to Linked List|Medium|✅ |
 |49 | LeetCode | Subarray Sum Equals K      |Medium |✅ |
 |50 | LeetCode | Number of Islands          |Medium |✅ |
+|51 | LeetCode | Decode Ways
 
 ---
 
