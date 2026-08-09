@@ -209,7 +209,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 35| Remove Methods From Project                 | Medium   |    ✅ |
 | 36| Smallest Divisible Digit Product I          | Easy     |    ✅ |
 | 37| Find the Lexicographically Smallest Valid Sequence|Medium|  ✅ |
-|
+| 38|
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -265,6 +265,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |47 | Codeforces | Merge to match            | ✅ |
 |48 | Codeforces | Maximize the score        | ✅ |
 |49 | Codeforces | Boss Fight                | ✅ |
+|50 | Codeforces |
 --- 
 
 ## 🎯 Goal
