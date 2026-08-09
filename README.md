@@ -209,7 +209,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 35| Remove Methods From Project                 | Medium   |    ✅ |
 | 36| Smallest Divisible Digit Product I          | Easy     |    ✅ |
 | 37| Find the Lexicographically Smallest Valid Sequence|Medium|  ✅ |
-| 38|
+| 38| Stone Game II                               | Medium   |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
