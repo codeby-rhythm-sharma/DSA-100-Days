@@ -265,7 +265,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |47 | Codeforces | Merge to match            | ✅ |
 |48 | Codeforces | Maximize the score        | ✅ |
 |49 | Codeforces | Boss Fight                | ✅ |
-|50 | Codeforces |
+|50 | Codeforces | The Best Card             | ✅ |
 --- 
 
 ## 🎯 Goal
