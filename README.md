@@ -267,7 +267,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |48 | Codeforces | Maximize the score        | ✅ |
 |49 | Codeforces | Boss Fight                | ✅ |
 |50 | Codeforces | The Best Card             | ✅ |
-|51 |
+|51 | Codeforces | Hot Potatoes the Fairy Warehouse|✅|
 --- 
 
 ## 🎯 Goal
