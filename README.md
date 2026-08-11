@@ -212,7 +212,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 37| Find the Lexicographically Smallest Valid Sequence|Medium|  ✅ |
 | 38| Stone Game II                               | Medium   |    ✅ |
 | 39| Stone Game IV                               | Hard     |    ✅ |
-| 40
+| 40|
 ---
 
 ## 🏆 Competitive Programming Tracker
