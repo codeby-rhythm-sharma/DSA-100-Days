@@ -142,7 +142,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |49 | LeetCode | Subarray Sum Equals K      |Medium |✅ |
 |50 | LeetCode | Number of Islands          |Medium |✅ |
 |51 | LeetCode | Decode Ways                |Medium |✅ |
-|52
+|52 |
 
 ---
 
