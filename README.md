@@ -143,7 +143,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |50 | LeetCode | Number of Islands          |Medium |✅ |
 |51 | LeetCode | Decode Ways                |Medium |✅ |
 |52 | LeetCode | Pacific Atlantic Water Flow|Medium |✅ |
-|53 | LeetCode |
+|53 | LeetCode | Find All Anagrams in a String|Medium|✅|
 
 ---
 
