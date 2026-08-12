@@ -143,6 +143,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |50 | LeetCode | Number of Islands          |Medium |✅ |
 |51 | LeetCode | Decode Ways                |Medium |✅ |
 |52 | LeetCode | Pacific Atlantic Water Flow|Medium |✅ |
+|53 | LeetCode |
 
 ---
 
@@ -213,6 +214,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 38| Stone Game II                               | Medium   |    ✅ |
 | 39| Stone Game IV                               | Hard     |    ✅ |
 | 40| Smallest Missing Integer Greater Than Sequential Prefix Sum|Easy|✅|
+| 41|
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -271,6 +273,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |50 | Codeforces | The Best Card             | ✅ |
 |51 | Codeforces | Hot Potatoes the Fairy Warehouse|✅|
 |52 | Codeforces |A Ribbon for tomorrow      | ✅ |
+|53 | Codeforces |
 --- 
 
 ## 🎯 Goal
