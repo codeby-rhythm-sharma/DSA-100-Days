@@ -273,7 +273,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |50 | Codeforces | The Best Card             | ✅ |
 |51 | Codeforces | Hot Potatoes the Fairy Warehouse|✅|
 |52 | Codeforces |A Ribbon for tomorrow      | ✅ |
-|53 | Codeforces |
+|53 | Codeforces | Even If the World Turns   | ✅ |
 --- 
 
 ## 🎯 Goal
