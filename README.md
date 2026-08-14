@@ -218,6 +218,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 40| Smallest Missing Integer Greater Than Sequential Prefix Sum|Easy|✅|
 | 41| Length of Longest Subarray With at Most K Frequency|Medium| ✅ |
 | 42| Longest Substring of One Repeating Character| Hard     |    ✅ |
+|
 ---
 
 ## 🏆 Competitive Programming Tracker
