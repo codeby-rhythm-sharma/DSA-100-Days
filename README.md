@@ -145,7 +145,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |52 | LeetCode | Pacific Atlantic Water Flow|Medium |✅ |
 |53 | LeetCode | Find All Anagrams in a String|Medium|✅|
 |54 | LeetCode | Clone Graph                |Medium |✅ |
-|55 | LeetCode | Rotting Oranges            |
+|55 | LeetCode | Rotting Oranges            |Medium
 
 ---
 
