@@ -220,6 +220,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 41| Length of Longest Subarray With at Most K Frequency|Medium| ✅ |
 | 42| Longest Substring of One Repeating Character| Hard     |    ✅ |
 | 43| Maximum Length Substring With Two Occurrences|Easy     |    ✅ |
+|
 ---
 
 ## 🏆 Competitive Programming Tracker
