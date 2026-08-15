@@ -282,7 +282,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |53 | Codeforces | Even If the World Turns   | ✅ |
 |54 | Codeforces | Domino Tiles              | ✅ |
 |55 | Codeforces |Hypercarp and the Control Panel|✅|
-|56 | Code
+|56 | Codeforces
 --- 
 
 ## 🎯 Goal
