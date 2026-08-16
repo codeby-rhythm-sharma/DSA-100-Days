@@ -284,7 +284,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |54 | Codeforces | Domino Tiles              | ✅ |
 |55 | Codeforces |Hypercarp and the Control Panel|✅|
 |56 | Codeforces |String Rotation Game       | ✅ |
-|57 | Codeforces |
+|57 | Codeforces | War Strategy              |
 --- 
 
 ## 🎯 Goal
