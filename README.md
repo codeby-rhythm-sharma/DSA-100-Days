@@ -147,8 +147,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |54 | LeetCode | Clone Graph                |Medium |✅ |
 |55 | LeetCode | Rotting Oranges            |Medium |✅ |
 |56 | LeetCode | Add Two Numbers            |Medium |✅ |
-|57 | LeetCode | Course Schedule
-
+|57 | LeetCode | Course Schedule            | Medium|
 ---
 
 ## 🔥 Daily LeetCode Streak
