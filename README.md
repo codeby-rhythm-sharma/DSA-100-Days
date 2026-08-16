@@ -222,7 +222,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 42| Longest Substring of One Repeating Character| Hard     |    ✅ |
 | 43| Maximum Length Substring With Two Occurrences|Easy     |    ✅ |
 | 44| Longest Subsequence With Non-Zero Bitwise XOR|Medium   |    ✅ |
-| 45|
+| 45| Stone Game IX                                |Medium   |    ✅ | 
 ---
 
 ## 🏆 Competitive Programming Tracker
