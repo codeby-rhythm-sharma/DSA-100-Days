@@ -147,6 +147,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |54 | LeetCode | Clone Graph                |Medium |✅ |
 |55 | LeetCode | Rotting Oranges            |Medium |✅ |
 |56 | LeetCode | Add Two Numbers            |Medium |✅ |
+|57 | LeetCode |
 
 ---
 
@@ -221,6 +222,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 42| Longest Substring of One Repeating Character| Hard     |    ✅ |
 | 43| Maximum Length Substring With Two Occurrences|Easy     |    ✅ |
 | 44| Longest Subsequence With Non-Zero Bitwise XOR|Medium   |    ✅ |
+| 45|
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -283,6 +285,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |54 | Codeforces | Domino Tiles              | ✅ |
 |55 | Codeforces |Hypercarp and the Control Panel|✅|
 |56 | Codeforces |String Rotation Game       | ✅ |
+|57 | Codeforces |
 --- 
 
 ## 🎯 Goal
