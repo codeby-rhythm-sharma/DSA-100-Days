@@ -148,7 +148,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |55 | LeetCode | Rotting Oranges            |Medium |✅ |
 |56 | LeetCode | Add Two Numbers            |Medium |✅ |
 |57 | LeetCode | Course Schedule            | Medium|✅ |
-|58 | LeetCode |
+|58 | LeetCode |  LRU Cache                 | Medium|✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
