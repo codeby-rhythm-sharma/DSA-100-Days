@@ -148,6 +148,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |55 | LeetCode | Rotting Oranges            |Medium |✅ |
 |56 | LeetCode | Add Two Numbers            |Medium |✅ |
 |57 | LeetCode | Course Schedule            | Medium|✅ |
+|58 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -222,6 +223,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 43| Maximum Length Substring With Two Occurrences|Easy     |    ✅ |
 | 44| Longest Subsequence With Non-Zero Bitwise XOR|Medium   |    ✅ |
 | 45| Stone Game IX                                |Medium   |    ✅ | 
+| 46|
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -285,6 +287,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |55 | Codeforces |Hypercarp and the Control Panel|✅|
 |56 | Codeforces |String Rotation Game       | ✅ |
 |57 | Codeforces | War Strategy              | ✅ |
+|58 | Codeforces |
 --- 
 
 ## 🎯 Goal
