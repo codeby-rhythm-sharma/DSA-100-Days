@@ -225,6 +225,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 44| Longest Subsequence With Non-Zero Bitwise XOR|Medium   |    ✅ |
 | 45| Stone Game IX                                |Medium   |    ✅ | 
 | 46| Stone Game V                                 | Hard    |    ✅ |
+| 47| Find the Largest Almost Missing Integer      | Easy    |    ✅ |
+| 48| Cinema Seat Allocation                       | Medium  |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
