@@ -291,6 +291,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |56 | Codeforces |String Rotation Game       | ✅ |
 |57 | Codeforces | War Strategy              | ✅ |
 |58 | Codeforces | Creating Abbreviations    | ✅ |
+|59 | Codeforces |
 --- 
 
 ## 🎯 Goal
