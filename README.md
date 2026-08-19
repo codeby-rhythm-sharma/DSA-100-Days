@@ -149,7 +149,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |56 | LeetCode | Add Two Numbers            |Medium |✅ |
 |57 | LeetCode | Course Schedule            | Medium|✅ |
 |58 | LeetCode |  LRU Cache                 | Medium|✅ |
-|59 | LeetCode |
+|59 | LeetCode | Coin Change                | Medium|✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
