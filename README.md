@@ -150,7 +150,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |57 | LeetCode | Course Schedule            | Medium|✅ |
 |58 | LeetCode |  LRU Cache                 | Medium|✅ |
 |59 | LeetCode | Coin Change                | Medium|✅ |
-|60 | LeetCode |
+|60 | LeetCode | Serialize and Deserialize Binary Tree|Hard|✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
