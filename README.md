@@ -150,6 +150,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |57 | LeetCode | Course Schedule            | Medium|✅ |
 |58 | LeetCode |  LRU Cache                 | Medium|✅ |
 |59 | LeetCode | Coin Change                | Medium|✅ |
+|60 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -227,6 +228,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 46| Stone Game V                                 | Hard    |    ✅ |
 | 47| Find the Largest Almost Missing Integer      | Easy    |    ✅ |
 | 48| Cinema Seat Allocation                       | Medium  |    ✅ |
+| 49|
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -292,6 +294,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |57 | Codeforces | War Strategy              | ✅ |
 |58 | Codeforces | Creating Abbreviations    | ✅ |
 |59 | Codeforces | Gigantomachy              | ✅ |
+|60 |
 --- 
 
 ## 🎯 Goal
