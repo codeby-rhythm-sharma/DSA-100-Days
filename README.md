@@ -294,7 +294,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |57 | Codeforces | War Strategy              | ✅ |
 |58 | Codeforces | Creating Abbreviations    | ✅ |
 |59 | Codeforces | Gigantomachy              | ✅ |
-|60 |
+|60 | Codeforces | Spying on the Beaver      | ✅ |
 --- 
 
 ## 🎯 Goal
