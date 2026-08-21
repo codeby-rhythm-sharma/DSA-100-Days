@@ -230,7 +230,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 47| Find the Largest Almost Missing Integer      | Easy    |    ✅ |
 | 48| Cinema Seat Allocation                       | Medium  |    ✅ |
 | 49| Distribute Elements Into Two Arrays I        | Easy    |    ✅ |
-| 50|
+| 50| Kth Smallest Amount With Single Denomination Combination|Hard |✅|
 ---
 
 ## 🏆 Competitive Programming Tracker
