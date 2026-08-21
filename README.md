@@ -297,7 +297,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |58 | Codeforces | Creating Abbreviations    | ✅ |
 |59 | Codeforces | Gigantomachy              | ✅ |
 |60 | Codeforces | Spying on the Beaver      | ✅ |
-|61 | Codeforces |
+|61 | Codeforces | Bermuda Rectangle         | ✅ |
 --- 
 
 ## 🎯 Goal
