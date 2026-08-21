@@ -151,6 +151,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |58 | LeetCode |  LRU Cache                 | Medium|✅ |
 |59 | LeetCode | Coin Change                | Medium|✅ |
 |60 | LeetCode | Serialize and Deserialize Binary Tree|Hard|✅ |
+|61 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -229,6 +230,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 47| Find the Largest Almost Missing Integer      | Easy    |    ✅ |
 | 48| Cinema Seat Allocation                       | Medium  |    ✅ |
 | 49| Distribute Elements Into Two Arrays I        | Easy    |    ✅ |
+| 50|
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -295,6 +297,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |58 | Codeforces | Creating Abbreviations    | ✅ |
 |59 | Codeforces | Gigantomachy              | ✅ |
 |60 | Codeforces | Spying on the Beaver      | ✅ |
+|61 | Codeforces |
 --- 
 
 ## 🎯 Goal
