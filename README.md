@@ -300,7 +300,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |59 | Codeforces | Gigantomachy              | ✅ |
 |60 | Codeforces | Spying on the Beaver      | ✅ |
 |61 | Codeforces | Bermuda Rectangle         | ✅ |
-|62 | Codeforces |
+|62 | Codeforces | Finds Nothing Here        | ✅ |
 --- 
 
 ## 🎯 Goal
