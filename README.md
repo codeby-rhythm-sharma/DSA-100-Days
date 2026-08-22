@@ -232,7 +232,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 48| Cinema Seat Allocation                       | Medium  |    ✅ |
 | 49| Distribute Elements Into Two Arrays I        | Easy    |    ✅ |
 | 50| Kth Smallest Amount With Single Denomination Combination|Hard |✅|
-| 51|
+| 51| Check Divisibility by Digit Sum and Product  | Easy    |    ✅ |
 ---
 
 ## 🏆 Competitive Programming Tracker
