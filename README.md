@@ -152,6 +152,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |59 | LeetCode | Coin Change                | Medium|✅ |
 |60 | LeetCode | Serialize and Deserialize Binary Tree|Hard|✅ |
 |61 | LeetCode | Perfect Squares            | Medium|✅ |
+|62 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -231,6 +232,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 48| Cinema Seat Allocation                       | Medium  |    ✅ |
 | 49| Distribute Elements Into Two Arrays I        | Easy    |    ✅ |
 | 50| Kth Smallest Amount With Single Denomination Combination|Hard |✅|
+| 51|
 ---
 
 ## 🏆 Competitive Programming Tracker
@@ -298,6 +300,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |59 | Codeforces | Gigantomachy              | ✅ |
 |60 | Codeforces | Spying on the Beaver      | ✅ |
 |61 | Codeforces | Bermuda Rectangle         | ✅ |
+|62 | Codeforces |
 --- 
 
 ## 🎯 Goal
