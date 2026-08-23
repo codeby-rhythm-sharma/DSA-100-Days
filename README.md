@@ -153,7 +153,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |60 | LeetCode | Serialize and Deserialize Binary Tree|Hard|✅ |
 |61 | LeetCode | Perfect Squares            | Medium|✅ |
 |62 | LeetCode | Minimum Window Substring   | Hard  |✅ |
-|63 |
+|63 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
