@@ -306,6 +306,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |61 | Codeforces | Bermuda Rectangle         | ✅ |
 |62 | Codeforces | Finds Nothing Here        | ✅ |
 |63 | Codeforces | Zhily and Array Operating | ✅ |
+|64 | Codeforces |
 --- 
 
 ## 🎯 Goal
