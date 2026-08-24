@@ -154,7 +154,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |61 | LeetCode | Perfect Squares            | Medium|✅ |
 |62 | LeetCode | Minimum Window Substring   | Hard  |✅ |
 |63 | LeetCode | Container with most water  | Medium|✅ |
-|64 | LeetCode |
+|64 | LeetCode | Word Search II             | Hard  |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
