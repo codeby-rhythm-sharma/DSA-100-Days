@@ -236,7 +236,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 50| Kth Smallest Amount With Single Denomination Combination|Hard |✅|
 | 51| Check Divisibility by Digit Sum and Product  | Easy    |    ✅ |
 | 52|  Sum Game                                    | Mesium  |    ✅ |
-| 53|
+| 53| . Stone Game VIII
+
 ---
 
 ## 🏆 Competitive Programming Tracker
