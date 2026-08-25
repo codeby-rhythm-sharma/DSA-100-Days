@@ -238,7 +238,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 51| Check Divisibility by Digit Sum and Product  | Easy    |    ✅ |
 | 52|  Sum Game                                    | Medium  |    ✅ |
 | 53| Stone Game VIII                              | Hard    |    ✅ |
-| 54|
+| 54| Smallest Missing Multiple of K               | Easy    |    ✅ |
 
 ---
 
