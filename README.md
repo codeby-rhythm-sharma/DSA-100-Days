@@ -310,7 +310,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |62 | Codeforces | Finds Nothing Here        | ✅ |
 |63 | Codeforces | Zhily and Array Operating | ✅ |
 |64 | Codeforces | Tatar TV Show             | ✅ |
-|65 | Codeforces |
+|65 | Codeforces | Interval Mod              | ✅ |
 --- 
 
 ## 🎯 Goal
