@@ -155,6 +155,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |62 | LeetCode | Minimum Window Substring   | Hard  |✅ |
 |63 | LeetCode | Container with most water  | Medium|✅ |
 |64 | LeetCode | Word Search II             | Hard  |✅ |
+|65 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -237,6 +238,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 51| Check Divisibility by Digit Sum and Product  | Easy    |    ✅ |
 | 52|  Sum Game                                    | Medium  |    ✅ |
 | 53| Stone Game VIII                              | Hard    |    ✅ |
+| 54|
 
 ---
 
@@ -308,6 +310,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |62 | Codeforces | Finds Nothing Here        | ✅ |
 |63 | Codeforces | Zhily and Array Operating | ✅ |
 |64 | Codeforces | Tatar TV Show             | ✅ |
+|65 | Codeforces |
 --- 
 
 ## 🎯 Goal
