@@ -156,7 +156,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |63 | LeetCode | Container with most water  | Medium|✅ |
 |64 | LeetCode | Word Search II             | Hard  |✅ |
 |65 | LeetCode |  Jump Game                 | Medium|✅ |
-|66 | LeetCode |
+|66 | LeetCode |  Trapping Rain Water       | Hard  |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -240,7 +240,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 52|  Sum Game                                    | Medium  |    ✅ |
 | 53| Stone Game VIII                              | Hard    |    ✅ |
 | 54| Smallest Missing Multiple of K               | Easy    |    ✅ |
-| 55|
+| 55| Shortest and Lexicographically Smallest Beautiful String|Medium | ✅|
 
 ---
 
