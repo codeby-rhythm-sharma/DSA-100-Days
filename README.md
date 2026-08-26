@@ -156,6 +156,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |63 | LeetCode | Container with most water  | Medium|✅ |
 |64 | LeetCode | Word Search II             | Hard  |✅ |
 |65 | LeetCode |  Jump Game                 | Medium|✅ |
+|66 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -239,6 +240,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 52|  Sum Game                                    | Medium  |    ✅ |
 | 53| Stone Game VIII                              | Hard    |    ✅ |
 | 54| Smallest Missing Multiple of K               | Easy    |    ✅ |
+| 55|
 
 ---
 
@@ -311,6 +313,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |63 | Codeforces | Zhily and Array Operating | ✅ |
 |64 | Codeforces | Tatar TV Show             | ✅ |
 |65 | Codeforces | Interval Mod              | ✅ |
+|66 | Codeforces |
 --- 
 
 ## 🎯 Goal
