@@ -243,6 +243,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 54| Smallest Missing Multiple of K               | Easy    |    ✅ |
 | 55| Shortest and Lexicographically Smallest Beautiful String|Medium | ✅|
 | 56|Lexicographically Smallest Permutation Greater Than Target|Medium|✅|
+| 57|Lexicographically Smallest Palindromic Permutation Greater Than Target|Hard|✅|
 
 ---
 
