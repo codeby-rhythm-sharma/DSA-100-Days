@@ -157,7 +157,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |64 | LeetCode | Word Search II             | Hard  |✅ |
 |65 | LeetCode |  Jump Game                 | Medium|✅ |
 |66 | LeetCode |  Trapping Rain Water       | Hard  |✅ |
-|67 | LeetCode |
+|67 | LeetCode | Non Overlapping Intervals  |Medium |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -316,7 +316,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |63 | Codeforces | Zhily and Array Operating | ✅ |
 |64 | Codeforces | Tatar TV Show             | ✅ |
 |65 | Codeforces | Interval Mod              | ✅ |
-|66 | Codeforces |
+|66 | Codeforces |F1 - Beaver's Jumping Track (Easy Version)|✅|
 --- 
 
 ## 🎯 Goal
