@@ -316,7 +316,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |63 | Codeforces | Zhily and Array Operating | ✅ |
 |64 | Codeforces | Tatar TV Show             | ✅ |
 |65 | Codeforces | Interval Mod              | ✅ |
-|66 | Codeforces |F1 - Beaver's Jumping Track (Easy Version)|✅|
+|66 | Codeforces |Beaver's Jumping Track (Easy Version)|✅|
+|67 | Codeforces |Beaver's Jumping Track (Hard Version)|✅|
 --- 
 
 ## 🎯 Goal
