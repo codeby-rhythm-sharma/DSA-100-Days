@@ -157,6 +157,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |64 | LeetCode | Word Search II             | Hard  |✅ |
 |65 | LeetCode |  Jump Game                 | Medium|✅ |
 |66 | LeetCode |  Trapping Rain Water       | Hard  |✅ |
+|67 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
