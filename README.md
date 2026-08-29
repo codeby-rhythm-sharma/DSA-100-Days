@@ -241,9 +241,10 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 52|  Sum Game                                    | Medium  |    ✅ |
 | 53| Stone Game VIII                              | Hard    |    ✅ |
 | 54| Smallest Missing Multiple of K               | Easy    |    ✅ |
-| 55| Shortest and Lexicographically Smallest Beautiful String|Medium | ✅|
+| 55| Shortest and Lexicographically Smallest Beautiful String|Medium |✅|
 | 56|Lexicographically Smallest Permutation Greater Than Target|Medium|✅|
 | 57|Lexicographically Smallest Palindromic Permutation Greater Than Target|Hard|✅|
+| 58|Make Lexicographically Smallest Array by Swapping Elements|Medium|✅|
 
 ---
 
