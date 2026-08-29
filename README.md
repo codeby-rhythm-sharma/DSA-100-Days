@@ -158,6 +158,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |65 | LeetCode |  Jump Game                 | Medium|✅ |
 |66 | LeetCode |  Trapping Rain Water       | Hard  |✅ |
 |67 | LeetCode | Non Overlapping Intervals  |Medium |✅ |
+|68 | LeetCode | Median of Two Sorted Arrays| Hard  |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
