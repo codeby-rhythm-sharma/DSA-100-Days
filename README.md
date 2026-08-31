@@ -248,6 +248,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 57|Lexicographically Smallest Palindromic Permutation Greater Than Target|Hard|✅|
 | 58|Make Lexicographically Smallest Array by Swapping Elements|Medium|✅|
 | 59|Removing Minimum and Maximum From Array       | Medium  |    ✅  |
+| 60|
 
 ---
 
