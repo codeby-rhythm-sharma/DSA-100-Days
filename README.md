@@ -159,7 +159,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |66 | LeetCode |  Trapping Rain Water       | Hard  |✅ |
 |67 | LeetCode | Non Overlapping Intervals  |Medium |✅ |
 |68 | LeetCode | Median of Two Sorted Arrays| Hard  |✅ |
-|69 | LeetCode |
+|69 | LeetCode | Binary Tree Maximum Path Sum|Hard  |✅ |
+|70 | LeetCode | Word Break                 |Medium |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
