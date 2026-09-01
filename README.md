@@ -326,6 +326,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |67 | Codeforces |Beaver's Jumping Track (Hard Version)|✅|
 |68 | Codeforces |Odd Eraser                 | ✅ |
 |69 | Codeforces |Carrot Chopdown (Easy Version)|✅|
+|70 | Codeforces |Carrot Chopdown (Hard Version)|✅|
 
 --- 
 
