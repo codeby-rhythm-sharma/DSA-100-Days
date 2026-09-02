@@ -330,7 +330,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |68 | Codeforces |Odd Eraser                 | ✅ |
 |69 | Codeforces |Carrot Chopdown (Easy Version)|✅|
 |70 | Codeforces |Carrot Chopdown (Hard Version)|✅|
-|71 | Codeforces |
+|71 | Codeforces | Far Cities                   |✅|
 
 --- 
 
