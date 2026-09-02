@@ -252,7 +252,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 59|Removing Minimum and Maximum From Array       | Medium  |    ✅  |
 | 1 | Find the Minimum and Maximum Number of Nodes Between Critical Points|Medium|✅|
 | 2 | Minimum Moves to Clean the Classroom         | Medium  |    ✅  |
-| 3 |
+| 3 | Construct Uniform Parity Array I             | Easy    |    ✅  |
 
 ---
 
