@@ -161,6 +161,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |68 | LeetCode | Median of Two Sorted Arrays| Hard  |✅ |
 |69 | LeetCode | Binary Tree Maximum Path Sum|Hard  |✅ |
 |70 | LeetCode | Word Break                 |Medium |✅ |
+|71 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -251,6 +252,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 59|Removing Minimum and Maximum From Array       | Medium  |    ✅  |
 | 1 | Find the Minimum and Maximum Number of Nodes Between Critical Points|Medium|✅|
 | 2 | Minimum Moves to Clean the Classroom         | Medium  |    ✅  |
+| 3 |
 
 ---
 
@@ -328,6 +330,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |68 | Codeforces |Odd Eraser                 | ✅ |
 |69 | Codeforces |Carrot Chopdown (Easy Version)|✅|
 |70 | Codeforces |Carrot Chopdown (Hard Version)|✅|
+|71 | Codeforces |
 
 --- 
 
