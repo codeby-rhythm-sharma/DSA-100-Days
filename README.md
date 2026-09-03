@@ -162,7 +162,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |69 | LeetCode | Word Break                 |Medium |✅ |
 |70 | LeetCode |Binary Tree Maximum Path Sum|Hard   |✅ |
 |71 | LeetCode |Longest Increasing Subsequence|Medium|✅|
-|72 | LeetCode |
+|72 | LeetCode | Edit Distance              |Medium |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
