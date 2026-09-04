@@ -163,7 +163,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |70 | LeetCode |Binary Tree Maximum Path Sum|Hard   |✅ |
 |71 | LeetCode |Longest Increasing Subsequence|Medium|✅|
 |72 | LeetCode | Edit Distance              |Medium  |✅|
-|73 | LeetCode | Sliding Window Maximum
+|73 | LeetCode | Sliding Window Maximum     |
 ---
 
 ## 🔥 Daily LeetCode Streak
