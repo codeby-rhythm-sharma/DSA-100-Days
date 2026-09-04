@@ -256,7 +256,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 2 | Minimum Moves to Clean the Classroom         | Medium  |    ✅  |
 | 3 | Construct Uniform Parity Array I             | Easy    |    ✅  |
 | 4 |Construct Uniform Parity Array II             | Medium  |    ✅  |
-| 5 | Smallest Stable Index I                      |
+| 5 | Smallest Stable Index I                      | Easy
 
 ---
 
