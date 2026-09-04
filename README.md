@@ -336,7 +336,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |70 | Codeforces |Carrot Chopdown (Hard Version)|✅|
 |71 | Codeforces | Far Cities                   |✅|
 |72 | Codeforces | Magic Tiles               | ✅ |
-|73
+|73 |
 
 --- 
 
