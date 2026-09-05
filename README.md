@@ -164,7 +164,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |71 | LeetCode |Longest Increasing Subsequence|Medium|✅|
 |72 | LeetCode | Edit Distance              |Medium  |✅|
 |73 | LeetCode | Sliding Window Maximum     |Hard   |✅ |
-|7
+|74
 ---
 
 ## 🔥 Daily LeetCode Streak
