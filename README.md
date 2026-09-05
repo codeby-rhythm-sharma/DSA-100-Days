@@ -339,7 +339,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |71 | Codeforces | Far Cities                   |✅|
 |72 | Codeforces | Magic Tiles               | ✅ |
 |73 | Codeforces | DivMEX                    | ✅ |
-|
+|7
 
 --- 
 
