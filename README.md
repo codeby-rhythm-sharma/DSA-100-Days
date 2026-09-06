@@ -260,7 +260,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 4 |Construct Uniform Parity Array II             | Medium  |    ✅  |
 | 5 | Smallest Stable Index I                      | Easy    |    ✅  |
 | 6 | Smallest Stable Index II                     | Medium  |    ✅  |
-| 7 |
+| 7 | Distinct Subsequences
 
 ---
 
