@@ -342,6 +342,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |72 | Codeforces | Magic Tiles               | ✅ |
 |73 | Codeforces | DivMEX                    | ✅ |
 |74 | Codeforces | Plus Minus Tree           | ✅ |
+|75 | Codeforces |
 
 --- 
 
