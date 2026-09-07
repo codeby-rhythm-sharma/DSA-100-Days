@@ -345,7 +345,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |73 | Codeforces | DivMEX                    | ✅ |
 |74 | Codeforces | Plus Minus Tree           | ✅ |
 |75 | Codeforces | Moo Language School       | ✅ |
-|76 | Codeforces |
+|76 | Codeforces | Minus Two                 | ✅ |
 
 --- 
 
