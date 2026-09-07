@@ -166,7 +166,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |73 | LeetCode | Sliding Window Maximum     |Hard   |✅ |
 |74 | LeetCode | Regular Expression Matching| Hard  |✅ |
 |75 | LeetCode | Merge k Sorted Lists       | Hard  |✅ |
-|76 | LeetCode |
+|76 | LeetCode | Design Twitter             | Medium|✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
