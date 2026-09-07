@@ -167,7 +167,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |74 | LeetCode | Regular Expression Matching| Hard  |✅ |
 |75 | LeetCode | Merge k Sorted Lists       | Hard  |✅ |
 |76 | LeetCode | Design Twitter             | Medium|✅ |
-|
+|77 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -264,6 +264,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 6 | Smallest Stable Index II                     | Medium  |    ✅  |
 | 7 | Distinct Subsequences                        | Hard    |    ✅  |
 | 8 | Distinct Subsequences II                     | Hard    |    ✅  |
+| 9 |
 
 ---
 
@@ -347,6 +348,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |74 | Codeforces | Plus Minus Tree           | ✅ |
 |75 | Codeforces | Moo Language School       | ✅ |
 |76 | Codeforces | Minus Two                 | ✅ |
+|77 | Codeforces |
 
 --- 
 
