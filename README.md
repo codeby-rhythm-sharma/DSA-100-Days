@@ -262,6 +262,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 5 | Smallest Stable Index I                      | Easy    |    ✅  |
 | 6 | Smallest Stable Index II                     | Medium  |    ✅  |
 | 7 | Distinct Subsequences                        | Hard    |    ✅  |
+| 8 |
 
 ---
 
