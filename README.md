@@ -264,7 +264,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 6 | Smallest Stable Index II                     | Medium  |    ✅  |
 | 7 | Distinct Subsequences                        | Hard    |    ✅  |
 | 8 | Distinct Subsequences II                     | Hard    |    ✅  |
-| 9 |
+| 9 | Count Commas in Range                        | Easy    |    ✅  |
 
 ---
 
