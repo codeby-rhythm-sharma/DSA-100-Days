@@ -167,7 +167,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |74 | LeetCode | Regular Expression Matching| Hard  |✅ |
 |75 | LeetCode | Merge k Sorted Lists       | Hard  |✅ |
 |76 | LeetCode | Design Twitter             | Medium|✅ |
-|77 | LeetCode |
+|77 | LeetCode | Count of Smaller Numbers After Self|Hard|✅|
 ---
 
 ## 🔥 Daily LeetCode Streak
