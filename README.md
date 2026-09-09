@@ -170,6 +170,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |77 | LeetCode | Count of Smaller Numbers After Self|Hard|✅|
 |78 | LeetCode |Maximum Profit in Job Scheduling|Hard|✅|
 |79 | LeetCode |
+|80 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
