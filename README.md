@@ -353,7 +353,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |75 | Codeforces | Moo Language School       | ✅ |
 |76 | Codeforces | Minus Two                 | ✅ |
 |77 | Codeforces | 101                       | ✅ |
-|78 | Codeforces |
+|78 | Codeforces | Monocarp's Contest        | ✅ |
 |79 | Codeforces |
 |80 | Codeforces |
 
