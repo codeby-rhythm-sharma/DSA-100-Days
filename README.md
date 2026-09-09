@@ -355,6 +355,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |77 | Codeforces | 101                       | ✅ |
 |78 | Codeforces |
 |79 | Codeforces |
+|80 | Codeforces |
 
 --- 
 
