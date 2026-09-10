@@ -356,7 +356,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |77 | Codeforces | 101                       | ✅ |
 |78 | Codeforces | Monocarp's Contest        | ✅ |
 |79 | Codeforces |Monocarp and projects      | ✅ |
-|80 | Codeforces |
+|80 | Codeforces |Maximize XOR,Minimize Operations|✅|
 
 --- 
 
