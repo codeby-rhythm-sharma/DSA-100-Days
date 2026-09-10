@@ -355,7 +355,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |76 | Codeforces | Minus Two                 | ✅ |
 |77 | Codeforces | 101                       | ✅ |
 |78 | Codeforces | Monocarp's Contest        | ✅ |
-|79 | Codeforces |
+|79 | Codeforces |Monocarp and projects      | ✅ |
 |80 | Codeforces |
 
 --- 
