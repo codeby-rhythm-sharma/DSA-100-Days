@@ -359,7 +359,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |78 | Codeforces | Monocarp's Contest        | ✅ |
 |79 | Codeforces |Monocarp and projects      | ✅ |
 |80 | Codeforces |Maximize XOR,Minimize Operations|✅|
-|81 | Codeoforces|
+|81 | Codeoforces|Signs of Prefix Sums       | ✅ |
 
 --- 
 
