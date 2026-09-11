@@ -271,6 +271,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 9 | Count Commas in Range                        | Easy    |    ✅  |
 | 10| Count Commas in Range II                     | Medium  |    ✅  |
 | 11| Count Nodes Equal to Average of Subtree      | Medium  |    ✅  |
+| 12|
 
 ---
 
