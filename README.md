@@ -171,6 +171,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |78 | LeetCode |Maximum Profit in Job Scheduling|Hard|✅|
 |79 | LeetCode | Burst Balloons             | Hard  |✅ |
 |80 | LeetCode | Palindrome Partitioning II| Hard   |✅ |
+|81 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
