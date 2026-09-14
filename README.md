@@ -173,7 +173,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |80 | LeetCode | Palindrome Partitioning II| Hard   |✅ |
 |81 | LeetCode |Largest Rectangle in Histogram|Hard |✅ |
 |82 | LeetCode | N- Queens                 | Hard   |✅ |
-|83 | LeetCode |
+|83 | LeetCode | Sudoku Solver             | Hard   |✅ |
 |84 | LeetCode |
 ---
 
