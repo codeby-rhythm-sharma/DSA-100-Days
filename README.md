@@ -172,7 +172,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |79 | LeetCode | Burst Balloons             | Hard  |✅ |
 |80 | LeetCode | Palindrome Partitioning II| Hard   |✅ |
 |81 | LeetCode |Largest Rectangle in Histogram|Hard |✅ |
-|82 | LeetCode |
+|82 | LeetCode | N- Queens                 | Hard   |✅ |
 |83 | LeetCode |
 |84 | LeetCode |
 ---
