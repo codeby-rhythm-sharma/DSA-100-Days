@@ -276,7 +276,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 11| Count Nodes Equal to Average of Subtree      | Medium  |    ✅  |
 | 12| Unique 3-Digit Even Numbers                  | Easy    |    ✅  |
 | 13| Maximum Score of Non-overlapping Intervals   | Hard    |    ✅  |
-| 1 | Rectangle Overlap
+| 1 | Rectangle Overlap                            | Medium  |    ✅  |
 
 ---
 
