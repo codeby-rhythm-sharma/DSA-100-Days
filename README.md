@@ -366,7 +366,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |80 | Codeforces |Maximize XOR,Minimize Operations|✅|
 |81 | Codeoforces|Signs of Prefix Sums       | ✅ |
 |82 | Codeforces |
-|83 |
+|83 | Codeforces |
 
 --- 
 
