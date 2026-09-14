@@ -174,6 +174,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |81 | LeetCode |Largest Rectangle in Histogram|Hard |✅ |
 |82 | LeetCode |
 |83 | LeetCode |
+|84 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
