@@ -174,7 +174,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |81 | LeetCode |Largest Rectangle in Histogram|Hard |✅ |
 |82 | LeetCode | N- Queens                 | Hard   |✅ |
 |83 | LeetCode | Sudoku Solver             | Hard   |✅ |
-|84 | LeetCode |
+|84 | LeetCode | 
 ---
 
 ## 🔥 Daily LeetCode Streak
@@ -367,7 +367,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |81 | Codeoforces|Signs of Prefix Sums       | ✅ |
 |82 | Codeforces | Rumb needs a hand         | ✅ |  
 |83 | Codeforces | Knife's Pill Farm         | ✅ |
-|84 | Codeforces |
+|84 | Codeforces |Madamant's Skating Dynasty | ✅ |
 
 --- 
 
