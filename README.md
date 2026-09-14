@@ -367,6 +367,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |81 | Codeoforces|Signs of Prefix Sums       | ✅ |
 |82 | Codeforces |
 |83 | Codeforces |
+|84 | Codeforces |
 
 --- 
 
