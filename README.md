@@ -175,6 +175,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |82 | LeetCode | N- Queens                 | Hard   |✅ |
 |83 | LeetCode | Sudoku Solver             | Hard   |✅ |
 |84 | LeetCode | 
+|85 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
