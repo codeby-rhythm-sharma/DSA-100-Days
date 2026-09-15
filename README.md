@@ -176,7 +176,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |83 | LeetCode | Sudoku Solver             | Hard   |✅ |
 |84 | LeetCode | Contains Duplicate        | Easy   |✅ |
 |85 | LeetCode | Valid Parentheses         | Easy   |✅ |
-|86|
+|86 |
 ---
 
 ## 🔥 Daily LeetCode Streak
