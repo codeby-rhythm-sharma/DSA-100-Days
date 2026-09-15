@@ -370,7 +370,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |82 | Codeforces | Rumb needs a hand         | ✅ |  
 |83 | Codeforces | Knife's Pill Farm         | ✅ |
 |84 | Codeforces |Madamant's Skating Dynasty | ✅ |
-|85 | Codeforces |
+|85 | Codeforces | Dr. Agos's Dark Mode      | ✅ |
 
 --- 
 
