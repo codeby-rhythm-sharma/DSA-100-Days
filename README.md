@@ -371,7 +371,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |83 | Codeforces | Knife's Pill Farm         | ✅ |
 |84 | Codeforces |Madamant's Skating Dynasty | ✅ |
 |85 | Codeforces | Dr. Agos's Dark Mode      | ✅ |
-|86 | Codeforces |A Prime Flood(Easy Version)|
+|86 | Codeforces |A Prime Flood(Easy Version)| ✅ |
 
 --- 
 
