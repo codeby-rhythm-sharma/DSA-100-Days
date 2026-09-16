@@ -177,7 +177,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |84 | LeetCode | Contains Duplicate        | Easy   |✅ |
 |85 | LeetCode | Valid Parentheses         | Easy   |✅ |
 |86 | LeetCode |Binary Tree Level Order Traversal|Middle|✅|
-|87 | LeetCode |Balanced Binary Tree       |
+|87 | LeetCode |Balanced Binary Tree       | Easy   |
 ---
 
 ## 🔥 Daily LeetCode Streak
