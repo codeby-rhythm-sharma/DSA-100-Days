@@ -281,7 +281,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 | 13| Maximum Score of Non-overlapping Intervals   | Hard    |    ✅  |
 | 1 | Rectangle Overlap                            | Medium  |    ✅  |
 | 2 |Maximum Number of Non-overlapping Palindrome Substrings|Hard|✅  |
-| 3 |Number of Sets of K Non-Overlapping Line Segments
+| 3 |Number of Sets of K Non-Overlapping Line Segments|
 
 ---
 
