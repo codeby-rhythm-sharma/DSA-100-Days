@@ -178,6 +178,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |85 | LeetCode | Valid Parentheses         | Easy   |✅ |
 |86 | LeetCode |Binary Tree Level Order Traversal|Middle|✅|
 |87 | LeetCode |Balanced Binary Tree       | Easy   |✅ |
+|88 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
