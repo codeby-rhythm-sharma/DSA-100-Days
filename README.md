@@ -378,6 +378,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |85 | Codeforces | Dr. Agos's Dark Mode      | ✅ |
 |86 | Codeforces |A Prime Flood(Easy Version)| ✅ |
 |87 | Codeforces |A Prime Flood(Hard Version)| ✅ |
+|88 | Codeforces |
 
 --- 
 
