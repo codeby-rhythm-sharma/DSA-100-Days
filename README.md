@@ -180,7 +180,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |87 | LeetCode |Balanced Binary Tree       | Easy   |✅ |
 |88 | LeetCode | Implement Trie            |Medium  |✅ |
 |89 | LeetCode |Design Add and Search Words Data Structure|
-|90 | LeetCode | Number of 1 Bits          | Easy   |
+|90 | LeetCode | Number of 1 Bits          | Easy   |✅ |
 |91 | LeetCode |
 |92 | LeetCode |
 |93 | LeetCode |
