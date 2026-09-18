@@ -183,7 +183,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |90 | LeetCode | Number of 1 Bits          | Easy   |✅ |
 |91 | LeetCode | Counting Bits             | Easy   |✅ |
 |92 | LeetCode | Reverse Bits              | Easy   |✅ |
-|93 | LeetCode |
+|93 | LeetCode | Missing Number            | Easy   |✅ |
 |94 | LeetCode |
 |95 | LeetCode |
 ---
