@@ -391,7 +391,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |89 | Codeforces |Travelling The World       | ✅ |
 |90 | Codeforces | PLUSworld                 | ✅ |
 |91 | Codeforces | Culling Game              | ✅ |
-|92 | Codeforces |
+|92 | Codeforces | Paired Bracket Sequences  | ✅ |
 |93 | Codeforces |
 |94 | Codeforces |
 |95 | Codeforces |
