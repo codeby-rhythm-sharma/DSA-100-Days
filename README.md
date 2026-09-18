@@ -185,7 +185,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |92 | LeetCode | Reverse Bits              | Easy   |✅ |
 |93 | LeetCode | Missing Number            | Easy   |✅ |
 |94 | LeetCode | Sum of Two Integers       |Medium  |✅ |
-|95 | LeetCode |
+|95 | LeetCode | House Robber II           |Medium  |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
