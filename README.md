@@ -185,6 +185,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |92 | LeetCode |
 |93 | LeetCode |
 |94 | LeetCode |
+|95 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
