@@ -386,7 +386,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |88 | Codeforces | Deranged Calculator       | ✅ |
 |89 | Codeforces |Travelling The World       | ✅ |
 |90 | Codeforces |
-|91 |
+|91 | Codeforces |
 
 --- 
 
