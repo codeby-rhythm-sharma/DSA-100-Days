@@ -187,7 +187,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |94 | LeetCode | Sum of Two Integers       |Medium  |✅ |
 |95 | LeetCode | House Robber II           |Medium  |✅ |
 |96 | LeetCode | Insert Interval           |Medium  |✅ |
-|97 | LeetCode |
+|97 | LeetCode | Word Ladder               |Medium  |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
