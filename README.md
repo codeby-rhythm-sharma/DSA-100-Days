@@ -399,6 +399,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |96 | Codeforces | No Cost Too Great(Easy Version)|✅|
 |97 | Codeforces | No Cost Too Great(Hard Version)|✅|
 |98 | Codeforces | Catshock                   | ✅|
+|99 | Codeforces |
 
 --- 
 
