@@ -387,7 +387,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |89 | Codeforces |Travelling The World       | ✅ |
 |90 | Codeforces | PLUSworld                 | ✅ |
 |91 | Codeforces | Culling Game              | ✅ |
-|92 |
+|92 | Codeforces |
 
 --- 
 
