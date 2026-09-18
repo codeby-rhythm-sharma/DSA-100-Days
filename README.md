@@ -384,7 +384,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |87 | Codeforces |A Prime Flood(Hard Version)| ✅ |
 |88 | Codeforces | Deranged Calculator       | ✅ |
 |89 | Codeforces |Travelling The World       | ✅ |
-|90 |
+|90 | Codeforces |
 
 --- 
 
