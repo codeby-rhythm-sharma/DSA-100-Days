@@ -392,7 +392,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |90 | Codeforces | PLUSworld                 | ✅ |
 |91 | Codeforces | Culling Game              | ✅ |
 |92 | Codeforces | Paired Bracket Sequences  | ✅ |
-|93 | Codeforces |
+|93 | Codeforces | Rank Removal              | ✅ |
 |94 | Codeforces |
 |95 | Codeforces |
 
