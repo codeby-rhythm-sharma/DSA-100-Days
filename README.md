@@ -181,6 +181,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |88 | LeetCode | Implement Trie            |Medium  |✅ |
 |89 | LeetCode |Design Add and Search Words Data Structure|
 |90 | LeetCode |
+|91 |
 ---
 
 ## 🔥 Daily LeetCode Streak
