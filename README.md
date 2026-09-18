@@ -181,7 +181,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |88 | LeetCode | Implement Trie            |Medium  |✅ |
 |89 | LeetCode |Design Add and Search Words Data Structure|
 |90 | LeetCode | Number of 1 Bits          | Easy   |✅ |
-|91 | LeetCode |
+|91 | LeetCode | Counting Bits             | Easy   |✅ |
 |92 | LeetCode |
 |93 | LeetCode |
 |94 | LeetCode |
