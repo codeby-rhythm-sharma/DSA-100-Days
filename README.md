@@ -390,6 +390,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |92 | Codeforces |
 |93 | Codeforces |
 |94 | Codeforces |
+|95 | Codeforces |
 
 --- 
 
