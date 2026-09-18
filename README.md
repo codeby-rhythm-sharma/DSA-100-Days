@@ -393,7 +393,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |91 | Codeforces | Culling Game              | ✅ |
 |92 | Codeforces | Paired Bracket Sequences  | ✅ |
 |93 | Codeforces | Rank Removal              | ✅ |
-|94 | Codeforces |
+|94 | Codeforces | Notelock                  | ✅ |
 |95 | Codeforces |
 
 --- 
