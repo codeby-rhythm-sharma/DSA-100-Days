@@ -189,7 +189,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |96 | LeetCode | Insert Interval           |Medium  |✅ |
 |97 | LeetCode | Word Ladder               | Hard   |✅ |
 |98 | LeetCode | Valid Parentheses         | Easy   |✅ |
-|99 | LeetCode |
+|99 | LeetCode |Recover Binary Search Tree |Medium  |✅ |
+|100| LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
