@@ -190,7 +190,7 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |97 | LeetCode | Word Ladder               | Hard   |✅ |
 |98 | LeetCode | Valid Parentheses         | Easy   |✅ |
 |99 | LeetCode |Recover Binary Search Tree |Medium  |✅ |
-|100| LeetCode |
+|100| LeetCode |Trapping Rain Water        | Hard   |✅ |
 ---
 
 ## 🔥 Daily LeetCode Streak
