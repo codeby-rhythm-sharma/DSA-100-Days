@@ -188,7 +188,8 @@ Problems are solved primarily in **C++** and organized topic-wise for easy revis
 |95 | LeetCode | House Robber II           |Medium  |✅ |
 |96 | LeetCode | Insert Interval           |Medium  |✅ |
 |97 | LeetCode | Word Ladder               | Hard   |✅ |
-|98 | LeetCode |                     |Medium  |✅ |
+|98 | LeetCode | Valid Parentheses         | Easy   |✅ |
+|99 | LeetCode |
 ---
 
 ## 🔥 Daily LeetCode Streak
